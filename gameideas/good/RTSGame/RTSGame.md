@@ -125,4 +125,3 @@ Mit der linkenmaustaste kann man im Aktionsmenü eine Aktion auswählen und dies
 
 ### v1:
 ![[RTS Game Menu v1.png]]
-

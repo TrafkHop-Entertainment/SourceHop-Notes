@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gameideas/good/RTSGame.md",
+                "file": "gameideas/good/RTSGame/RTSGame.md",
                 "mode": "source",
                 "source": false
               },
@@ -185,6 +185,8 @@
   },
   "active": "e4cf1e3398042d51",
   "lastOpenFiles": [
+    "gameideas/good/RTSGame/RTS Game Menu v1.png",
+    "gameideas/good/RTSGame/RTSGame.md",
     "README.md",
     "TrafkhopEntertainmentIntroductionVideoScript.md",
     "RTS Game Menu v1.png",
