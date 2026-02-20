@@ -18,10 +18,13 @@ hatten sich bereits in der Entstehungsphase deren Welt diese aufgeteilt und hatt
 Dorens: ein Fluss aus Dornen, gute Abwehr.
 Kasumm: Summe, Wissbegierendes Volk.
 Verlauh: Verlaucht, wandelntes Adelsvolk, Stolze und Machthungrige Leute.
-Holett: Höhle, Erforscher der Welt.
+Hölett: Höhle, Erforscher der Welt.
 Läfern: Schläfernd, ein langsames Pack, Ruhe mit der Eile, Zeit nehmen.
 
-Diese 5 Reiche waren zu Anfang alle friedlich miteinander, fast alle waren Nett zu einander, es gab fast keine Ausgrenzungen, fast nichts, im prinzip alles war paletti. Es gab zwar allerlei böser Monster, die die 5 Reiche bedrohten, die diese konnten sich allesamdt selbst verteidigen. Drachen machten auch manchmal ärger, doch da diese Wesen meißt recht weise und intelligent waren, liesen die meißten die Driesana in Ruhe und manche halfen ihnen sogar. Natürlich gab es ein paar Streitigkeiten, jedoch konnten diese alle schnell wieder Geschlichtet werden.
+## Weltenkarte:
+![[Drateu Map Basic.png]]
+
+Diese 5 Reiche waren zu Anfang alle friedlich miteinander, fast alle waren Nett zu einander, es gab fast keine Ausgrenzungen, fast nichts, im prinzip alles war paletti. Es gab zwar allerlei böser Monster, die die 5 Reiche bedrohten, die diese konnten sich allesamdt selbst verteidigen. Drachen machten auch manchmal ärger, doch da diese Wesen meißt recht weise und intelligent waren, liesen die meißten die Driesana in Ruhe und manche halfen ihnen sogar. Dorens hat mit den Drachen sogar ein Bündnis abgeschlossen. Natürlich gab es ein paar Streitigkeiten, jedoch konnten diese alle schnell wieder Geschlichtet werden.
 
 ## **Der Auslöser:**
 Doch dann 8 Jahre nach der vollendung der Welt kam Dries und verkündete, dass sie nun endlich ihren Kraftwürfel(braucht auch nen neuen Namen) bekommen hatte und diesen einem der 5 Reiche überlassen werde, um diesen zu beschützen. Da dieser Würfel sehr mächtig war und nur einer der 5 ihn bekommen konnte, kam es so wie es kommen musste und die 5 Reiche begannen einander zu misstrauen. Am Ende bekam ......
@@ -33,23 +36,35 @@ Es ist also ein Weltkrieg zwischen den 5 Reichen ausgebrochen der sich noch viel
 Vollständig erst, wenn ich wirklich selber die games gezockt hab!
 
 ## **Missionen:**
-1. Es gibt mehrere Kampanien in denen man jede Seite des Kriegs erleben kann.
-2. Missionen sind "geskriptet" und müssen in Reihenfolge gewältigt werden.
-3. Man hat mehrere Missionspunkte, die man abhaken muss. z.B. Nehme diesen Punkt ein, halte diese Linie, beschütze ..., zerstöre ..., etc.
-4. Jede Mission hat ein Zeitlimit oder ein Schadenbegrenzungslimit, oder ein Nebenmissionserfüllungslimit. Diese limits muss man einhalten, damit man am Ende jeder Mission bis zu 3 Sterne bekommen kann.
+Es gibt mehrere Kampanien in denen man jede Seite des Kriegs erleben kann.
+
+Missionen sind "geskriptet" und müssen in Reihenfolge gewältigt werden.
+
+Man hat mehrere Missionspunkte, die man abhaken muss. z.B. Nehme diesen Punkt ein, halte diese Linie, beschütze ..., zerstöre ..., etc.
+
+Jede Mission hat ein Zeitlimit oder ein Schadenbegrenzungslimit, oder ein Nebenmissionserfüllungslimit. Diese limits muss man einhalten, damit man am Ende jeder Mission bis zu 3 Sterne bekommen kann.
 
 
 ## **Im Spiel:**
-1. Man kann seine Soldaten einzeln, oder auch mehrere als Trupp Auswählen.
-2. Diese kann man allerlei Formationen einnehmen lassen, das geht mit der Maus, je nach Mausziehung. also shift + linksklick
-3. Seinen Truppen kann man allerlei befehlen, z.B. Formation, Drehen, Bewegen, hinlegen, in Gebäude gehen, Granaten werfen, Mit einem Drachen Bomben fallen lassen, in Schützengräbern gehen, Turrets bedienen, etc. Dies geht mittels des Aktionspanels, wobei man anmerken muss, dass bewegen standardmäßig als linksklick gilt und rechtsklick als die hauptaktion der jeweiligen Klasse/Truppe/Soldat/etc ist.
-4. Bestimmte Zauberer können mitteln Kraft Golems erschaffen, die als ersatztruppen herhalten, für eine kleine Weile zumindest. 
-5. Jeder hat nur eine bestimmte sehweite, welche man ausnutzen kann, indem man Camouflage(aka die Farbe seiner Umwelt) zu benutzen weis.
-6. Je nach Terrain können Truppen diese Betreten oder nicht, z.B. Panzer in einem dichten Wald geht nicht.
-7. Auch das taktische Positionieren ist sehr wichtig, da wenn man in der Unterzahl ist, ist es taktischer erst sich zurückzuziehen und danach erst von nicht leicht sichtbaren Positionen anzugreifen. Auch wenn man hinter einem Gegner ist, ist die Chance niedriger, dass man entdeckt wird. Wenn einen der Gegner nicht sieht, du aber schon, dann ist das natürlich besser als das andere.
-8. Jedes verschiedenes Mitglied (z.B. Soldat, Panzer, Beschwörer) hat seine eigenen Aktionen, die nur diese ausführen kann. Z.B: einen Golem beschwören, schwere Schüsse, von weit weg schießen, etwas reperieren, Leute heilen, etc.
-9. Die Soldaten haben keine Moral, wie werden keine Befehle missachten.
-10. Die Soldaten werden automatisch angreifen, sobald sie einen Gegner sehen und auch in deren Lage auch eine gut Chance haben, sie werden jedoch keine Befehle missachten. 
+Man kann seine Soldaten einzeln, oder auch mehrere als Trupp Auswählen.
+
+Diese kann man allerlei Formationen einnehmen lassen, das geht mit der Maus, je nach Mausziehung. also shift + linksklick
+
+Seinen Truppen kann man allerlei befehlen, z.B. Formation, Drehen, Bewegen, hinlegen, in Gebäude gehen, Granaten werfen, Mit einem Drachen Bomben fallen lassen, in Schützengräbern gehen, Turrets bedienen, etc. Dies geht mittels des Aktionspanels, wobei man anmerken muss, dass bewegen standardmäßig als linksklick gilt und rechtsklick als die hauptaktion der jeweiligen Klasse/Truppe/Soldat/etc ist.
+
+Bestimmte Zauberer können mitteln Kraft Golems erschaffen, die als ersatztruppen herhalten, für eine kleine Weile zumindest. 
+
+Jeder hat nur eine bestimmte sehweite, welche man ausnutzen kann, indem man Camouflage(aka die Farbe seiner Umwelt) zu benutzen weis.
+
+Je nach Terrain können Truppen diese Betreten oder nicht, z.B. Panzer in einem dichten Wald geht nicht.
+
+Auch das taktische Positionieren ist sehr wichtig, da wenn man in der Unterzahl ist, ist es taktischer erst sich zurückzuziehen und danach erst von nicht leicht sichtbaren Positionen anzugreifen. Auch wenn man hinter einem Gegner ist, ist die Chance niedriger, dass man entdeckt wird. Wenn einen der Gegner nicht sieht, du aber schon, dann ist das natürlich besser als das andere.
+
+Jedes verschiedenes Mitglied (z.B. Soldat, Panzer, Beschwörer) hat seine eigenen Aktionen, die nur diese ausführen kann. Z.B: einen Golem beschwören, schwere Schüsse, von weit weg schießen, etwas reperieren, Leute heilen, etc.
+
+Die Soldaten haben keine Moral, wie werden keine Befehle missachten.
+
+Die Soldaten werden automatisch angreifen, sobald sie einen Gegner sehen und auch in deren Lage auch eine gut Chance haben, sie werden jedoch keine Befehle missachten. 
 
 
 
@@ -65,6 +80,7 @@ volumen * Summe der attribute(geschwindigkeit+schwerelos*dauernd(unendlich lange
 
 
 ## **Soldaten:**
+
 ## Nah- und Fernkampf Zauberer
 (haben Zauberstab, macht zaubern günstiger, ca. -10% ???)
 Diese haben allerlei Zauber, welche man als Gruppierungen im Aktionsmenü auswählen kann um Platz zu sparen.
