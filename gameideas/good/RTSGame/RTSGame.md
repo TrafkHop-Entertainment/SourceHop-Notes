@@ -15,18 +15,29 @@ Die Driesana
 (Homo Deus von Dries, aka Menschen die nicht aus unserem Universum stammen)
 hatten sich bereits in der Entstehungsphase deren Welt diese aufgeteilt und hatten je ein Reich erschaffen. Die 5 Reiche waren: Dorens, Kasumm, Verlauh, Hölett und Läfern.
 ### Bedeutungen:
-Dorens: ein Fluss aus Dornen, gute Abwehr.
-Kasumm: Summe, Wissbegierendes Volk.
-Verlauh: Verlaucht, wandelntes Adelsvolk, Stolze und Machthungrige Leute.
-Hölett: Höhle, Erforscher der Welt.
-Läfern: Schläfernd, ein langsames Pack, Ruhe mit der Eile, Zeit nehmen.
+#### Dorens:
+ein Fluss aus Dornen, gute Abwehr.
+#### Kasumm:
+Summe, Wissbegierendes Volk.
+#### Verlauh:
+Verlaucht, wandelntes Adelsvolk, Stolze und Machthungrige Leute.
+#### Hölett:
+Höhle, Erforscher der Welt.
+#### Läfern:
+Schläfernd, ein langsames Pack, Ruhe mit der Eile, Zeit nehmen.
 
 ### Reiche:
-Dorens:
-Kasumm: Eine Direkte Demokratie, da sich alle als gleichwärtig ansehen.
-Verlauh:
-Hölett:
-Läfern:
+#### Dorens:
+Monarchie. Da sie eine gute Beziehung mit den Drachen pflegen, brauchen sie auch einen weisen Anführer die verhandlungen mit dem Drachenoberhaupt betreibt.
+#### Kasumm:
+Eine Meritokratie, da sich alle als gleichwärtig ansehen. Der schlauste wird die anderen Überzeugen können und Fortschritt folgt.
+#### Verlauh:
+Eine Plutokratie, der Reichste Regiert, je ärmer desto weniger Macht.
+#### Hölett:
+Komunissmus. Allen Gehört alles, in der Erde muss man teilen um zu Überleben, essen zum Beispiel wächst ja bekanntlich an der Oberfläche und nicht Untergrund.
+#### Läfern:
+Anarchie. Alle sind faul und haben viel Zeit. Da man in einer Anarchie nicht viel machen muss, passt das gut. Sie haben Moral und ein Pflicht Gefühl, was ihnen schon reicht.
+
 
 ### Weltenkarte:
 ![[Drateu Map Basic.png]]
@@ -113,7 +124,12 @@ Stahlkutschen die mittels Verzauberung selber fahren, sie haben anstatt Fenster 
 ### Drachenbomber:
 Mehrere ausgebildete Drachenflieger die verschiedenes auf feindliche Truppen hinabwerfen, z.B. Thea x Federn, flüssiges Metal, Bomben, Pfeilhagel, etc.
 Die Drachen sind mit einem Härtezauber belegt worden, dadurch werden sie resistenter gegen allerlei angriffe.
-
+### Techniker
+können temporäre Brücken, Schützengraben, etc bauen. Können auch allerhand reperieren, sei es Fahrzeug oder Brücke.
+### Attentäter
+Alleingänger die sich flink und ufauffällig (Camouflage) zu den Gegnern begeben und diese Eleminieren, hoffentlich schnell genug, bevor die Gegner ihre Waffen zücken können. Am besten gegen einzelne Soldaten an Katapultenes und ähnlich einzusetzen. Sie beherrschen außerdem die Drachenkampfkünste die sie im Notfall verwenden können, um unmögliches möglich zu machen. Dadurch werden sie aber auffällig. Sie benutzen Werfdolche, Wurfsterne und Katanas.
+### Katapultör
+Bedient das Katapult oder andere schwere Attellarie. Hat ansonsten nur einen Dolch und ein Schild.
 
 
 # *Steuerung:*
