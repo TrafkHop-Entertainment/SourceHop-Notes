@@ -5,16 +5,26 @@ MANA = KRAFT !!!
 
 # Lore:
 
+## Anfang:
 Wir schreiben das Jahr ca. ~ ??? (vor ca. 260 Milliarden Jahren in unserer Zeitrechnung).
 Die Göttin Dries erschuf ihre Welt, Drateu(neuen Namen braucht das ganze noch).
 Diese Welt war eine von Abenteuern und seltsamen Wesen wie Drachen, Tiermenschen oder auch Monster.
 
+## Die 5 Reiche:
 Die Driesana
 (Homo Deus von Dries, aka Menschen die nicht aus unserem Universum stammen)
-hatten sich bereits in der Entstehungsphase deren Welt diese aufgeteilt und hatten je ein Reich (Kaiserreiche natürlich) erschaffen. Die 5 Reiche waren: Dorens, Kasum, Verlauh, Hölettl und 
-Diese 5 Reiche waren zu Anfang alle friedlich miteinander, fast alle waren Nett zu einander, es gab fast keine Ausgrenzungen, fast nichts, im prinzip alles war paletti. Es gab zwar allerlei böser Monster, die die 5 Reiche bedrohten, die diese konnten sich allesamdt selbst verteidigen. Drachen machten auch manchmal ärger, doch da diese Wesen meißt recht weise und intelligent waren, liesen die meißten die Driesana in Ruhe und manche halfen ihnen sogar.
+hatten sich bereits in der Entstehungsphase deren Welt diese aufgeteilt und hatten je ein Reich (Kaiserreiche natürlich) erschaffen. Die 5 Reiche waren: Dorens, Kasumm, Verlauh, Hölett und Läfern.
+### Bedeutungen:
+Dorens: ein Fluss aus Dornen, gute Abwehr.
+Kasumm: Summe, Wissbegierendes Volk.
+Verlauh: Verlaucht, wandelntes Adelsvolk, Stolze und Machthungrige Leute.
+Holett: Höhle, Erforscher der Welt.
+Läfern: Schläfernd, ein langsames Pack, Ruhe mit der Eile, Zeit nehmen.
 
-Doch dann ein paar Jahre nach der vollendung der Welt kam Dries und verkündete, dass sie nun endlich ihren Kraftwürfel(braucht auch nen neuen Namen) bekommen hatte und diesen einem der 5 Reiche überlassen werde, um diesen zu beschützen. Da dieser Würfel sehr mächtig war und nur einer der 5 ihn bekommen konnte, kam es so wie es kommen musste und die 5 Reiche begannen einander zu misstrauen. Am Ende bekam
+Diese 5 Reiche waren zu Anfang alle friedlich miteinander, fast alle waren Nett zu einander, es gab fast keine Ausgrenzungen, fast nichts, im prinzip alles war paletti. Es gab zwar allerlei böser Monster, die die 5 Reiche bedrohten, die diese konnten sich allesamdt selbst verteidigen. Drachen machten auch manchmal ärger, doch da diese Wesen meißt recht weise und intelligent waren, liesen die meißten die Driesana in Ruhe und manche halfen ihnen sogar. Natürlich gab es ein paar Streitigkeiten, jedoch konnten diese alle schnell wieder Geschlichtet werden.
+
+## Der Auslöser:
+Doch dann 8 Jahre nach der vollendung der Welt kam Dries und verkündete, dass sie nun endlich ihren Kraftwürfel(braucht auch nen neuen Namen) bekommen hatte und diesen einem der 5 Reiche überlassen werde, um diesen zu beschützen. Da dieser Würfel sehr mächtig war und nur einer der 5 ihn bekommen konnte, kam es so wie es kommen musste und die 5 Reiche begannen einander zu misstrauen. Am Ende bekam ......
 
 Es ist also ein Weltkrieg zwischen den 5 Reichen ausgebrochen der sich noch viele Jahre hinweg strecken wird und immer wiedermal erneut aufflammen wird.
 
