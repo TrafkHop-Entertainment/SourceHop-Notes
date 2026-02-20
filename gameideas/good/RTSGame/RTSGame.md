@@ -37,6 +37,7 @@ Eine Plutokratie, der Reichste Regiert, je ärmer desto weniger Macht.
 Komunissmus. Allen Gehört alles, in der Erde muss man teilen um zu Überleben, essen zum Beispiel wächst ja bekanntlich an der Oberfläche und nicht Untergrund.
 #### Läfern:
 Anarchie. Alle sind faul und haben viel Zeit. Da man in einer Anarchie nicht viel machen muss, passt das gut. Sie haben Moral und ein Pflicht Gefühl, was ihnen schon reicht.
+d
 
 
 ### Weltenkarte:
