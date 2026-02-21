@@ -26,7 +26,7 @@ Höhle, Erforscher der Welt.
 #### Läfern:
 Schläfernd, ein langsames Pack, Ruhe mit der Eile, Zeit nehmen.
 
-### Reiche:
+### Regierungen:
 #### Dorens:
 Monarchie. Da sie eine gute Beziehung mit den Drachen pflegen, brauchen sie auch einen weisen Anführer die verhandlungen mit dem Drachenoberhaupt betreibt.
 #### Kasumm:
@@ -37,8 +37,38 @@ Eine Plutokratie, der Reichste Regiert, je ärmer desto weniger Macht.
 Komunissmus. Allen Gehört alles, in der Erde muss man teilen um zu Überleben, essen zum Beispiel wächst ja bekanntlich an der Oberfläche und nicht Untergrund.
 #### Läfern:
 Anarchie. Alle sind faul und haben viel Zeit. Da man in einer Anarchie nicht viel machen muss, passt das gut. Sie haben Moral und ein Pflicht Gefühl, was ihnen schon reicht.
-d
 
+### Soldaten Aufteilung:
+#### Dorens:
+Zauberer
+Heiler
+Drachenbomber
+Kampfkünstler
+Schützen
+#### Kasumm:
+Panzerfahrer
+Heiler
+Techniker
+#### Verlauh:
+Zauberer
+Heiler
+Katapultör
+Klingenkämpfer
+Schützen
+#### Hölett:
+Heiler
+Beschwörer
+Attentäter
+Techniker
+Schützen
+Sprenger
+#### Läfern:
+Scharfschützen
+Scheiner
+Attentäter
+Techniker
+Heiler
+Klingenkämpfer
 
 ### Weltenkarte:
 ![[Drateu Map Basic.png]]
@@ -46,9 +76,15 @@ d
 Diese 5 Reiche waren zu Anfang alle friedlich miteinander, fast alle waren Nett zu einander, es gab fast keine Ausgrenzungen, fast nichts, im prinzip alles war paletti. Es gab zwar allerlei böser Monster, die die 5 Reiche bedrohten, die diese konnten sich allesamdt selbst verteidigen. Drachen machten auch manchmal ärger, doch da diese Wesen meißt recht weise und intelligent waren, liesen die meißten die Driesana in Ruhe und manche halfen ihnen sogar. Dorens hat mit den Drachen sogar ein Bündnis abgeschlossen. Natürlich gab es ein paar Streitigkeiten, jedoch konnten diese alle schnell wieder Geschlichtet werden.
 
 ## Der Auslöser:
-Doch dann 8 Jahre nach der vollendung der Welt kam Dries und verkündete, dass sie nun endlich ihren Kraftwürfel(braucht auch nen neuen Namen) bekommen hatte und diesen einem der 5 Reiche überlassen werde, um diesen zu beschützen. Da dieser Würfel sehr mächtig war und nur einer der 5 ihn bekommen konnte, kam es so wie es kommen musste und die 5 Reiche begannen einander zu misstrauen. Am Ende bekam ......
+Doch dann 8 Jahre nach der vollendung der Welt kam Dries und verkündete, dass sie nun endlich ihren Kraftwürfel(braucht auch nen neuen Namen) bekommen hatte und diesen einem der 5 Reiche überlassen werde, um diesen zu beschützen. Da dieser Würfel sehr mächtig war und nur einer der 5 ihn bekommen konnte, kam es so wie es kommen musste und die 5 Reiche begannen einander zu misstrauen. Am Ende bekam wie es auch kommen musste Verlauh. Die Reichen werden immer Reicher und nun auch stark genug um alle anderen zu besiegen. Dries dachte sich nur, dass Verlauh wohl sehr seicher sei, da sie so ne fette Mauer haben und nichtmal sie drüber schauen konnte. Sie wurde getäuscht und dies wussten die anderen 4 Reiche nur zu gut.
+Also beschloss Dorens mit den Drachen den Stein für sich zu ergattern.
+Kasumm bat Dorens zusätzlich eine Partnerschaft an, in der Dorens eine Waffenlieferung von Kasumm bekam, während Kasumm den Schutz der Drachen bekommen würde und zusätzlich einen kleinen Teil des Steins, wenn Dorens gewinnen würde, Soldaten schickten sie jedoch nicht, da sie selbst ja keine Krieger waren.
+Hölett andererseits wollte den Stein für sich selbst, damit sie ihr Untergrundimperium florieren lassen können.
+Läfern allerdings wollte damit nichts zu tun haben und wollte nur zuschauen.
+Verlauh, die durch ihre Spione vieles mitbekam, bereitete sich still und heimlich auf den kommenden Krieg vor.
 
-Es ist also ein Weltkrieg zwischen den 5 Reichen ausgebrochen der sich noch viele Jahre hinweg strecken wird und immer wiedermal erneut aufflammen wird.
+## Der Anfang des 1. Kriegs:
+
 
 
 # *Gameplay:*
@@ -98,8 +134,7 @@ volumen * Summe der attribute(geschwindigkeit+schwerelos*dauernd(unendlich lange
 5l* (1m/s * 1,3 * 1,25) = 8,125 Level    (das sind nur Beispiel Werte) (1 Level = 1 Liter)
 
 
-## Soldaten:
-
+## Alle Soldaten:
 ### Zauberer
 (haben Zauberstab, macht zaubern günstiger, ca. -10% ???)
 Diese haben allerlei Zauber, welche man als Gruppierungen im Aktionsmenü auswählen kann um Platz zu sparen.
@@ -128,9 +163,13 @@ Die Drachen sind mit einem Härtezauber belegt worden, dadurch werden sie resist
 ### Techniker
 können temporäre Brücken, Schützengraben, etc bauen. Können auch allerhand reperieren, sei es Fahrzeug oder Brücke.
 ### Attentäter
-Alleingänger die sich flink und ufauffällig (Camouflage) zu den Gegnern begeben und diese Eleminieren, hoffentlich schnell genug, bevor die Gegner ihre Waffen zücken können. Am besten gegen einzelne Soldaten an Katapultenes und ähnlich einzusetzen. Sie beherrschen außerdem die Drachenkampfkünste die sie im Notfall verwenden können, um unmögliches möglich zu machen. Dadurch werden sie aber auffällig. Sie benutzen Werfdolche, Wurfsterne und Katanas.
+Alleingänger die sich flink und ufauffällig (Camouflage) zu den Gegnern begeben und diese Eleminieren, hoffentlich schnell genug, bevor die Gegner ihre Waffen zücken können. Am besten gegen einzelne Soldaten an Katapultenes und ähnlich einzusetzen. Sie benutzen Messer und Wurfdolche.
 ### Katapultör
 Bedient das Katapult oder andere schwere Attellarie. Hat ansonsten nur einen Dolch und ein Schild.
+### Sprenger
+Wirft allerlei Explosiven und bleibt meißt in Deckung. Hat ansonsten nur einen Dolch.
+### Kampfkünstler
+Sie beherrschen die Drachenkampfkünste und andere Hand zu Hand Kampfkünste. Sie sind schnell und körperlich stark, jedoch auffällig.
 
 
 # *Steuerung:*
