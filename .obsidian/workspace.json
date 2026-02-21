@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gameideas/good/RTSGame/RTSGame.md",
+                "file": "lore/Worlds/Kosmos/Kosmos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RTSGame"
+              "title": "Kosmos"
             }
           }
         ]
@@ -185,14 +185,28 @@
   },
   "active": "e4cf1e3398042d51",
   "lastOpenFiles": [
+    "lore/Worlds/Dramoteu/Dramoteu.md",
+    "lore/Characters/Ursel/Ursel.md",
+    "lore/Characters/Terra/Terra.md",
+    "lore/Worlds/Kosmos/Kosmos.md",
+    "lore/Characters/Terra",
+    "lore/Characters/Ursel",
+    "lore/Characters",
+    "gameideas/good/RTSGame/Dramoteu; Claim to the Urlstein.md",
+    "lore/Information/Alfönisß.md",
+    "lore/Information/Magic Book (Zauberbuch).md",
+    "lore/Information/Use Cases for Magic (Vielfalt der Kraftnutzung).md",
+    "lore/Information/The Basis of the Triverse (Grundgesetze der drei Behälter).md",
+    "lore/Information/Alfönisßes Wöaddabuaß.md",
+    "lore/Worlds/Kosmos",
+    "lore/Worlds/Dramoteu",
+    "README.md",
     "gameideas/good/RTSGame/Drateu Map Basic.png",
     "backups/1.backup(ca.23.9.2025)/InArbeit/PyleyRailshooterGame.txt",
     "backups/1.backup(ca.23.9.2025)/InArbeit/PyleysMarbleblast.txt",
     "backups/1.backup(ca.23.9.2025)/InArbeit/PyleysFarm&Stuff(FarmingSimmitanderemKram)(NeuerNameBitte).txt",
     "backups/1.backup(ca.23.9.2025)/InArbeit/PyleysBlockyQuest(Minecraft).txt",
     "gameideas/good/RTSGame/RTS Game Menu v1.png",
-    "gameideas/good/RTSGame/RTSGame.md",
-    "README.md",
     "TrafkhopEntertainmentIntroductionVideoScript.md",
     "RTS Game Menu v1.png",
     "Trafkhop Entertainment Introduction Video Script.md",

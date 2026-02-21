@@ -1,5 +1,5 @@
+# Dramoteu: Claim to the Urlstein
 Inspired von: "Sudden Strike" "Age of Empires" "Total War".
-MANA = KRAFT !!!
 
 
 
