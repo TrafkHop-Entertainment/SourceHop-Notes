@@ -46,9 +46,10 @@ Drachenbomber
 Kampfkünstler
 Schützen
 #### Kasumm:
-Panzerfahrer
+Maschinenfahrer
 Heiler
 Techniker
+Forscher
 #### Verlauh:
 Zauberer
 Heiler
@@ -76,12 +77,12 @@ Klingenkämpfer
 Diese 5 Reiche waren zu Anfang alle friedlich miteinander, fast alle waren Nett zu einander, es gab fast keine Ausgrenzungen, fast nichts, im prinzip alles war paletti. Es gab zwar allerlei böser Monster, die die 5 Reiche bedrohten, die diese konnten sich allesamdt selbst verteidigen. Drachen machten auch manchmal ärger, doch da diese Wesen meißt recht weise und intelligent waren, liesen die meißten die Driesana in Ruhe und manche halfen ihnen sogar. Dorens hat mit den Drachen sogar ein Bündnis abgeschlossen. Natürlich gab es ein paar Streitigkeiten, jedoch konnten diese alle schnell wieder Geschlichtet werden.
 
 ## Der Auslöser:
-Doch dann 8 Jahre nach der vollendung der Welt kam Dries und verkündete, dass sie nun endlich ihren Kraftwürfel(braucht auch nen neuen Namen) bekommen hatte und diesen einem der 5 Reiche überlassen werde, um diesen zu beschützen. Da dieser Würfel sehr mächtig war und nur einer der 5 ihn bekommen konnte, kam es so wie es kommen musste und die 5 Reiche begannen einander zu misstrauen. Am Ende bekam wie es auch kommen musste Verlauh. Die Reichen werden immer Reicher und nun auch stark genug um alle anderen zu besiegen. Dries dachte sich nur, dass Verlauh wohl sehr seicher sei, da sie so ne fette Mauer haben und nichtmal sie drüber schauen konnte. Sie wurde getäuscht und dies wussten die anderen 4 Reiche nur zu gut.
+Doch dann 235 Jahre nach der vollendung der Welt kam Dries und verkündete, dass sie nun endlich ihren Urlstein bekommen hatte und diesen einem der 5 Reiche überlassen werde, um diesen zu beschützen. Da dieser Würfel sehr mächtig war und nur einer der 5 ihn bekommen konnte, damit der Würfel seine volle Kraft entfalten könne. Es kam so wie es kommen musste und die 5 Reiche begannen einander zu misstrauen. Am Ende bekam Verlauh den Urlstein. Die Reichen werden immer Reicher und nun wohl auch stark genug um alle anderen zu besiegen. Dries dachte sich nur, dass Verlauh wohl sehr sicher sei, da sie so ne fette Mauer haben und nichtmal sie drüber schauen konnte oder hindurch gelang ohne ihre göttlichen Kräfte zu gebrauchen. Sie wurde etwas getäuscht und dies wussten die anderen 4 Reiche nur zu gut.
 Also beschloss Dorens mit den Drachen den Stein für sich zu ergattern.
-Kasumm bat Dorens zusätzlich eine Partnerschaft an, in der Dorens eine Waffenlieferung von Kasumm bekam, während Kasumm den Schutz der Drachen bekommen würde und zusätzlich einen kleinen Teil des Steins, wenn Dorens gewinnen würde, Soldaten schickten sie jedoch nicht, da sie selbst ja keine Krieger waren.
+Kasumm bat Dorens zusätzlich eine Partnerschaft an, in der Dorens eine Waffenlieferung von Kasumm bekam, während Kasumm den Schutz der Drachen bekommen würde und zusätzlich einen kleinen Teil des Steins, wenn Dorens gewinnen würde. Soldaten schickten sie jedoch nicht, da sie selbst ja keine Krieger waren.
 Hölett andererseits wollte den Stein für sich selbst, damit sie ihr Untergrundimperium florieren lassen können.
 Läfern allerdings wollte damit nichts zu tun haben und wollte nur zuschauen.
-Verlauh, die durch ihre Spione vieles mitbekam, bereitete sich still und heimlich auf den kommenden Krieg vor.
+Verlauh, die durch ihre Spione vieles mitbekam, bereitete sich still und heimlich auf den kommenden Krieg vor. Natürlich mit Sklaven und Mannpower.
 
 ## Der Anfang des 1. Kriegs:
 
@@ -155,7 +156,8 @@ Dies sind die standardeinheiten im Fernkampfbereich. Sie benutzen normale Schuss
 Allerlei Bögen und "modere" Schusswaffen, welche im Prinzip einfach vorverzauberte Projektile lagert und abfeuert. Der Trigger löst einen Zauberkreis aus, welcher die Zauber der Projektile auslöst, was wiederrum dafür sorgt, dass diese mit wahnsinnsgeschwindigkeit nach vorne schießt. Die Schusswaffen sind lediglich dazu da, damit man die Kugeln nicht noch mit Homing verzaubern muss, was sehr teuer wäre.
 ### Scheiner
 Erschafft Trug- und Scheinbilder um Feinde zu verwirren und dessen Recourcen zu verbrauchen. Stellt auch allerlei Fallen in Form von Zauberkreisen auf, welche den Feind töten, wenn sie diese Berühren. Er benutzt Camouflage.
-### Panzerfahrer:
+### Maschinenfahrer:
+#### Panzerfahrer:
 Stahlkutschen die mittels Verzauberung selber fahren, sie haben anstatt Fenster ein Angriffssehrohr. An den 2 langen Seiten befinden sich 2 überdimensionale Schusswaffen in Form eines Wasserrohrs. Diese feuern Kugeln die extra stark Verzaubert sind und manchmal sogar einen Explosionszauber beinhalten. Sind meißt Camouflaged.
 ### Drachenbomber:
 Mehrere ausgebildete Drachenflieger die verschiedenes auf feindliche Truppen hinabwerfen, z.B. Thea x Federn, flüssiges Metal, Bomben, Pfeilhagel, etc.
@@ -170,6 +172,8 @@ Bedient das Katapult oder andere schwere Attellarie. Hat ansonsten nur einen Dol
 Wirft allerlei Explosiven und bleibt meißt in Deckung. Hat ansonsten nur einen Dolch.
 ### Kampfkünstler
 Sie beherrschen die Drachenkampfkünste und andere Hand zu Hand Kampfkünste. Sie sind schnell und körperlich stark, jedoch auffällig.
+### Forscher:
+Erfoschen neue Arten von Waffen.
 
 
 # *Steuerung:*
