@@ -3,11 +3,7 @@ Inspired von: "Sudden Strike" "Age of Empires" "Total War".
 
 
 
-# *Lore (wird später ins Geschichtsbuch und Weltenbuch übertragen):*
-
-
-
-
+# *History, Story, Geography (Das ist bei related links)
 
 # *Gameplay:*
 Vollständig erst, wenn ich wirklich selber die games gezockt hab!

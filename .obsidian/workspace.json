@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lore/Worlds/Dramoteu/Dramoteu.md",
+                "file": "lore/Characters/Kosmos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dramoteu"
+              "title": "Kosmos"
             }
           }
         ]
@@ -185,10 +185,21 @@
   },
   "active": "e4cf1e3398042d51",
   "lastOpenFiles": [
+    "lore/Characters/Gartlotz.md",
+    "lore/Characters/Kosmos.md",
+    "lore/Characters/Schüllen (Wellen x Schüssel).md",
+    "lore/Characters/Spielthon.md",
+    "lore/Characters/Ursel.md",
+    "lore/Characters/Dramoteu.md",
     "gameideas/good/Dramoteu; Claim to the Urlstein/Dramoteu; Claim to the Urlstein.md",
-    "lore/Worlds/Dramoteu/Dramoteu.md",
-    "lore/Information/Magic Book (Zauberbuch).md",
+    "lore/Characters",
     "lore/Worlds/Kosmos/Kosmos.md",
+    "lore/Worlds/Dramoteu/Dramoteu.md",
+    "lore/Information/UseCasesforMagic(VielfaltderZauberkraftnutzung).md",
+    "lore/Information/TheBasisoftheTriverse(GrundgesetzederdreiBehälter).md",
+    "lore/Information/MagicBook(Zauberbuch).md",
+    "lore/Information/AlfönisßesWöaddabuaß.md",
+    "lore/Information/Magic Book (Zauberbuch).md",
     "TrafkhopEntertainmentIntroductionVideoScript.md",
     "lore/Characters/Ursel/Ursel.md",
     "lore/Characters/Terra/Terra.md",
