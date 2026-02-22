@@ -108,8 +108,6 @@ Diese kann man allerlei Formationen einnehmen lassen, das geht mit der Maus, je 
 
 Seinen Truppen kann man allerlei befehlen, z.B. Formation, Drehen, Bewegen, hinlegen, in Gebäude gehen, Granaten werfen, Mit einem Drachen Bomben fallen lassen, in Schützengräbern gehen, Turrets bedienen, etc. Dies geht mittels des Aktionspanels, wobei man anmerken muss, dass bewegen standardmäßig als linksklick gilt und rechtsklick als die hauptaktion der jeweiligen Klasse/Truppe/Soldat/etc ist.
 
-Bestimmte Zauberer können mitteln Kraft Golems erschaffen, die als ersatztruppen herhalten, für eine kleine Weile zumindest. 
-
 Jeder hat nur eine bestimmte sehweite, welche man ausnutzen kann, indem man Camouflage(aka die Farbe seiner Umwelt) zu benutzen weis.
 
 Je nach Terrain können Truppen diese Betreten oder nicht, z.B. Panzer in einem dichten Wald geht nicht.
@@ -174,6 +172,13 @@ Wirft allerlei Explosiven und bleibt meißt in Deckung. Hat ansonsten nur einen 
 Sie beherrschen die Drachenkampfkünste und andere Hand zu Hand Kampfkünste. Sie sind schnell und körperlich stark, jedoch auffällig.
 ### Forscher:
 Erfoschen neue Arten von Waffen.
+
+## Alle Interaktiven Sachen:
+
+Schützengraben
+Turret
+Raketenwerferstation
+Häuser (verstecken)
 
 
 # *Steuerung:*
