@@ -41,15 +41,6 @@ Die Soldaten werden automatisch angreifen, sobald sie einen Gegner sehen und auc
 
 # *Inhalt:*
 
-
-## Zaubersystem (nur zur Info):
-Blockartig, man kann Attribute zusammen setzen und neue Zauber erstellen.
-z.B.
-Feuerball:
-volumen * Summe der attribute(geschwindigkeit+schwerelos*dauernd(unendlich lange fusionsfeuerkugel))
-5l* (1m/s * 1,3 * 1,25) = 8,125 Level    (das sind nur Beispiel Werte) (1 Level = 1 Liter)
-
-
 ## Alle Soldaten:
 ### Zauberer
 (haben Zauberstab, macht zaubern günstiger, ca. -10% ???)
