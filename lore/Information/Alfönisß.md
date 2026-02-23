@@ -10,19 +10,21 @@ Satzbau:
 
 Wortarten:
 Hauptwort: Haus, Nohm, Gloggn, Brühn
-Namenwörter: Nöhm, ea, sie, es, du, wia, iah, sie, sei, mei, unsa
-Tunwort: gähn, singa, laufn, leitn, schreibn, schauhn
+Namenwörter: Nohm, ea, sie, es, du, wia, iah, sie, sei, mei, unsa
+Tunwort: gehn, singa, laufn, leitn, schreibn, schauhn
 Zeitwort: morgn, gesdan, jedz, grod, is, woa
 Wiewörter: schäh, sauba, dreggi, laud
 Aussagewort: doch, na, jo, scho, a geh, jössasna, is, ned
-Zählwort: nein, drei, 
-Ortwort: Doadd, do, üba, drübn, duaß, auf, undda
-Vorwort: bis, dea, die, des, dem den, 
+Zählwort: ans, zwa, drei, fia, fü, fünf, seßs, siebn, oßd, nei, zehn, fü, weng, a, an, 
+Ortwort: Doadd, do, üba, drübn, duaß, auf, undda, in
+Vorwort: dea, die, des, dem den,
 Bindewort: weil, da, und
 
 Einzahl, mehrzahl:
 Einzahl bei 0- und 1nem Ding.
+a haus, an obfi.
 Mehrzahl bei 2+ Dingen
+a boa wiasßdl, 
 Manche Wörter deuten noch auf genauere Zahlenmengen hin: boal, dudzend
 
 Zeiten:
