@@ -1,3 +1,4 @@
+# All
 # The Child of Magic (Das Kind der Zauberkraft)
 
 # Götterhierachie
