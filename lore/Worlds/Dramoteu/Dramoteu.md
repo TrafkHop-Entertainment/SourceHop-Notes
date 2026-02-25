@@ -3,7 +3,7 @@
 ## Pre 1. War:
 ### Beginnings
 Wir schreiben das Jahr ca. ~ ??? (vor ca. 260 Milliarden Jahren in unserer Zeitrechnung).
-Die Göttin Dries erschuf ihre Welt, Drateu(neuen Namen braucht das ganze noch).
+Die Göttin Dries erschuf ihre Welt, Dramoteu.
 Diese Welt war eine von Abenteuern und seltsamen Wesen wie Drachen, Tiermenschen oder auch Monster.
 
 ### Die 5 Reiche:
@@ -28,7 +28,7 @@ Verlauh, die durch ihre Spione vieles mitbekam, bereitete sich still und heimlic
 
 ## PreFirst/First War:
 ### Worldmap:
-![[Drateu Map Basic.png]]
+![[Dramoteu Map Basic.png]]
 #### picture description of: Dramoteu pre first / first war
 Dramoteu is a planet that is in a Realmtrafkbubble and has 5 destinct segments/countries, wich are all a bit apart, enough so that it is a nuicance. Inbetween the countries, there is a lot of grass.:
 Dorens & Dragons:
