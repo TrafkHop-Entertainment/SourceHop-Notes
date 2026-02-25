@@ -4,7 +4,7 @@ it was created when the None was reset.
 
 # maps:
 ## before Alfonz reform:
-![[old_isle.png]]
+![[UrselBeforeAlfonzReform.png]]
 #### picture description of: Ursel before Alfonz reform
 A 50m by 35m by 2m big floating isle in a almost pitch black, purple blue void. Its upper side if flat, a flat grass disk with 0,85m of dirt underneath.
 Its lower side is a streched half sphere. It is a thin, oval shape and made of some kind of limestone, a rather soft stone and smooth, to be specific.
