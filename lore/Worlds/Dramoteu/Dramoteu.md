@@ -29,6 +29,36 @@ Verlauh, die durch ihre Spione vieles mitbekam, bereitete sich still und heimlic
 ## PreFirst/First War:
 ### Worldmap:
 ![[Drateu Map Basic.png]]
+#### picture description of: Dramoteu pre first / first war
+Dramoteu is a planet that is in a Realmtrafkbubble and has 5 destinct segments/countries, wich are all a bit apart, enough so that it is a nuicance. Inbetween the countries, there is a lot of grass.:
+Dorens & Dragons:
+Dorens lies on the left side of the planet, it consists of many smaller mountains that surround a much bigger mountain, wich has an entrance at the upper middle cliff. Some mountains are pointy while some others, including the big one, are flat headed. Surrounding the mountain area is a Stacheldrahtzaun, wich is ancored at some of the smaller mountains and some of the stone towers. There are A few stone towers surrounding the mountain area. right under the Mountain lies a stone castle.
+Kasumm:
+Kasumm is a floating island that is on the top right (upper right) side of the planet. It has the Form of a seeshell and has a few specialtys. There is a giant Clock located at the top of the flat island and in that clock, there is a massive factory that produces all kinds of magical maschines. THere is also a library with a school inside on the right side. It is a wooden building. The homes are located on the left side, where many brick buildings are standing. in the middle is a plaza, where many benches and tables stand. Its a dicussion ground for all kinds of things. On the bottom is a Trafkhafen that leads down onto the main planet.
+Verlauh:
+Verlauh is a rich state, wich has a marble wall spanning from the middle of the planet, back around until the top middle of the planet. A golden castle is standing in the inner top of the wall. in the middle of the wall, there is a plaza with a golden statue posing rich ontop of a heavy stone pedestal. There is a second plaze on the left, where a Springbrunnen is standing. The homes and towers are placed randomly around inside of the wall. on the bottom of the wall, there is a Giant gate, where on both sides a big golden marble tower stands.
+Hölett:
+Hölett has on the surface only an entrance, wich is a small hill, located on the "bottom" left side of the planet. The entrance reminds of an old mine shaft, a few wooden beams that prevents everything from collapsing.
+Läfern:
+Läfern is a state, wich has many big treees, wich also have entrances carved in on many places, like the stemm and on a brach into the stemm.
+It is located on the right side of the planet.
+There are no visible homes, altough most of the stuff they have is in the trees.
+
+
+
+Dramoteu is a spherical green planet floating within a deep purple Realmtrafkbubble. The land consists of five distinct countries separated by vast stretches of lush green grass.
+
+Dorens and Dragons Dorens is located on the far left side of the planet. This territory features a massive central red mountain with a flat top and a visible entrance carved into its upper-middle cliff. A cluster of smaller mountains and sharp peaks surrounds the main mountain. A continuous barbed-wire fence is anchored to these smaller peaks and several grey stone towers to create a perimeter. A large grey stone castle sits at the base of the central mountain.
+
+Kasumm Kasumm is a floating island hovering over the upper-right side of the planet. The island resembles a giant seashell and is connected to the ground by a thin line from its Trafkhafen port at the bottom. At the highest point of the island sits a giant clock which houses a massive factory for magical machines. On the right side of the island is a large wooden building serving as a library and school. The left side contains several brick residential buildings. A central plaza filled with benches and tables serves as a public discussion ground.
+
+Verlauh Verlauh is a wealthy state at the bottom of the planet. It is enclosed by a curved marble wall that spans from the center to the top-middle of the lower region. A golden castle stands at the inner-top of this walled area. In the center is a plaza featuring a golden statue of a wealthy figure on a heavy stone pedestal. To the left is another plaza containing a decorative fountain. Various homes and towers are scattered within the walls. At the very bottom is a giant gate flanked by two large golden marble towers.
+
+Hoelett Hoelett is a subterranean region with only a small entrance visible on the bottom-left surface of the planet. The entrance is a small hill that looks like an old mine-shaft reinforced with sturdy wooden beams to prevent collapse.
+
+Laefern Laefern is a forested state on the right side of the planet. It is dominated by massive green trees with thick brown trunks. Entrances are carved directly into the stems and branches of these trees. While no traditional houses are visible, all dwellings and facilities are contained within the hollowed-out trees.
+
+
 ### Regierungen:
 #### Dorens:
 Monarchie. Da sie eine gute Beziehung mit den Drachen pflegen, brauchen sie auch einen weisen Anführer die verhandlungen mit dem Drachenoberhaupt betreibt.
