@@ -1,7 +1,10 @@
 # The Basis of the Triverse | Grundgesetze der drei Behälter
 
 zk
-zt
+# Zaubertrafk (Trafk)
+## Looks:
+### picture description of: Zaubertrafk (Trafk) (Trafkbubble)
+a dark violet-blue, semitransparent bubble. It has a thick wall and the inside is completly empty. It verys greatly in size, from an atom up to multiple meters. it has a faint, but ominouse glow to it.
 
 Trafk Blasen
 Welten Trafk Blasen
