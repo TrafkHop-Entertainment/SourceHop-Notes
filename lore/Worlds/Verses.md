@@ -1,17 +1,27 @@
+# All
+## Propertys
+### size
+singularity
+### age
+infinite
+## Map
+### picture description of: All
+It is a singularity, a point. It has no width and is infinitly dense, but also small. It is the home of Zauberkraft, so in this space exists everything, because Zauberkraft can by anything.
+# None
 The All resets and reocupies the none.
 So because someting always goes wrong, it is always being reset.
 
-# Newest Reset:
-## age:
-### 400 Billion Years
+## Newest Reset:
+### age:
+#### 400 Billion Years
 (the 400 comes from ascii)
-## size
+### size
 still infinite
-## attributes
+### attributes
 none
-## Map
+### Map
 ![[None.png]]
-### picture description of: None
+#### picture description of: None
 The None is an infinite black void, empty save for the 13 WorldTrafkBubbles floating within it. These bubbles are large, dark violet-blue, and semi-transparent - from a distance, they resemble shiny violet marbles with entire miniature worlds suspended inside them. Each bubble varies in size.
 
 At the very center of the arrangement floats the bubble of Ursel, the smallest of them all. Orbiting it on a single flat, circular plane are 8 bubbles of varying sizes - all somewhat larger than Ursel, yet far smaller than the grandest of them. Directly above Ursel, along the vertical axis, hovers one additional bubble; directly below, another mirrors it.
