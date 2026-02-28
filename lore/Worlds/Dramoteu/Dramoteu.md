@@ -14,8 +14,8 @@ hatten sich bereits in der Entstehungsphase deren Welt diese aufgeteilt und hatt
 Diese 5 Reiche waren zu Anfang alle friedlich miteinander, fast alle waren Nett zu einander, es gab fast keine Ausgrenzungen, fast nichts, im prinzip alles war paletti. Es gab zwar allerlei böser Monster, die die 5 Reiche bedrohten, die diese konnten sich allesamdt selbst verteidigen. Drachen machten auch manchmal ärger, doch da diese Wesen meißt recht weise und intelligent waren, liesen die meißten die Driesana in Ruhe und manche halfen ihnen sogar. Dorens hat mit den Drachen sogar ein Bündnis abgeschlossen. Natürlich gab es ein paar Streitigkeiten, jedoch konnten diese alle schnell wieder Geschlichtet werden.
 
 ### Der Auslöser:
-Doch dann 235 Jahre nach der vollendung der Welt kam Dries und verkündete, dass sie nun endlich ihren Urlstein bekommen hatte und diesen einem der 5 Reiche überlassen werde, um diesen zu beschützen. Da dieser Würfel sehr mächtig war und nur einer der 5 ihn bekommen konnte, damit der Würfel seine volle Kraft entfalten könne. Es kam so wie es kommen musste und die 5 Reiche begannen einander zu misstrauen. Am Ende bekam Verlauh den Urlstein. Die Reichen werden immer Reicher und nun wohl auch stark genug um alle anderen zu besiegen. Dries dachte sich nur, dass Verlauh wohl sehr sicher sei, da sie so ne fette Mauer haben und nichtmal sie drüber schauen konnte oder hindurch gelang ohne ihre göttlichen Kräfte zu gebrauchen. Sie wurde etwas getäuscht und dies wussten die anderen 4 Reiche nur zu gut.
-Also beschloss Dorens mit den Drachen den Stein für sich zu ergattern.
+Doch dann 738 Jahren nach der vollendung der Welt kam Dries und verkündete, dass sie nun endlich ihren Urlstein bekommen hatte und diesen einem der 5 Reiche überlassen werde, um diesen zu beschützen. Die Bevölkerung, zu dem Zeitpunkt mittlerweile etwas über ihrem mittlerem Alter, freute sich darüber. Da dieser Würfel sehr mächtig war und leider nur einer der 5 ihn bekommen konnte, damit der Würfel seine volle Kraft entfalten könne, musste sich Dries für das sicherste Reich entscheiden. Es kam so wie es kommen musste und die 5 Reiche begannen einander zu misstrauen. Am Ende bekam Verlauh den Urlstein. Die Reichen werden immer Reicher und nun wohl auch stark genug um alle anderen zu besiegen, das dachten sich die übrigen Länder. Dries dachte sich nur, dass Verlauh wohl sehr sicher sei, da sie so ne fette Mauer haben und nichtmal sie drüber schauen konnte oder hindurch gelang ohne ihre göttlichen Kräfte zu gebrauchen. Sie wurde etwas getäuscht und dies wussten die anderen 4 Länder nur zu gut.
+Also beschloss Dorens mithilfe der Drachen den Stein für sich zu ergattern.
 Kasumm bat Dorens zusätzlich eine Partnerschaft an, in der Dorens eine Waffenlieferung von Kasumm bekam, während Kasumm den Schutz der Drachen bekommen würde und zusätzlich einen kleinen Teil des Steins, wenn Dorens gewinnen würde. Soldaten schickten sie jedoch nicht, da sie selbst ja keine Krieger waren.
 Hölett andererseits wollte den Stein für sich selbst, damit sie ihr Untergrundimperium florieren lassen können.
 Läfern allerdings wollte damit nichts zu tun haben und wollte nur zuschauen.
@@ -26,39 +26,38 @@ Verlauh, die durch ihre Spione vieles mitbekam, bereitete sich still und heimlic
 
 # Geography
 
-## PreFirst/First War:
+## Beginning - First War:
 ### Worldmap:
 ![[Dramoteu Map Basic.png]]
-#### picture description of: Dramoteu pre first / first war
-Dramoteu is a planet that is in a Realmtrafkbubble and has 5 destinct segments/countries, wich are all a bit apart, enough so that it is a nuicance. Inbetween the countries, there is a lot of grass.:
-Dorens & Dragons:
-Dorens lies on the left side of the planet, it consists of many smaller mountains that surround a much bigger mountain, wich has an entrance at the upper middle cliff. Some mountains are pointy while some others, including the big one, are flat headed. Surrounding the mountain area is a Stacheldrahtzaun, wich is ancored at some of the smaller mountains and some of the stone towers. There are A few stone towers surrounding the mountain area. right under the Mountain lies a stone castle.
-Kasumm:
-Kasumm is a floating island that is on the top right (upper right) side of the planet. It has the Form of a seeshell and has a few specialtys. There is a giant Clock located at the top of the flat island and in that clock, there is a massive factory that produces all kinds of magical maschines. THere is also a library with a school inside on the right side. It is a wooden building. The homes are located on the left side, where many brick buildings are standing. in the middle is a plaza, where many benches and tables stand. Its a dicussion ground for all kinds of things. On the bottom is a Trafkhafen that leads down onto the main planet.
+#### picture description of: Dramoteu beginning - first war
+**Dramoteu** is a planet that is in a Realmtrafkbubble and has 5 destinct segments/countries, wich are all a bit apart, enough so that it is a nuicance. Inbetween the countries, there is a lot of grass.
+The Planet itself is 183.904 km² big. The average distance between each Region is aproximatly 85 km. The Horizon is only ca. 1km away from eyesight.
+**Dorens & Dragons:**
+Dorens lies on the left side of the planet and is 5.700 km² big, it consists of many smaller mountains that surround a much bigger mountain, wich is 2538m high and has an entrance at the upper middle cliff. Some mountains are pointy while some others, including the big one, have a flat peak. Surrounding the mountain area is a Stacheldrahtzaun, wich is ancored at some of the smaller mountains and some of the stone towers. There are A few stone towers surrounding the mountain area. right under the Mountain lies a stone castle.
+**Kasumm:**
+Kasumm is a floating island that is on the top right (upper right) side of the planet. It has the Form of a seeshell, is 68 km² big and has a few specialtys. There is a giant Clock (80m high) located at the top of the flat island and in that clock, there is a massive factory that produces all kinds of magical maschines. THere is also a library with a school inside on the right side. It is a wooden building. The homes are located on the left side, where many brick buildings are standing. in the middle is a plaza, where many benches and tables stand. Its a dicussion ground for all kinds of things. On the bottom is a Trafkhafen.
 Verlauh:
-Verlauh is a rich state, wich has a marble wall spanning from the middle of the planet, back around until the top middle of the planet. A golden castle is standing in the inner top of the wall. in the middle of the wall, there is a plaza with a golden statue posing rich ontop of a heavy stone pedestal. There is a second plaze on the left, where a Springbrunnen is standing. The homes and towers are placed randomly around inside of the wall. on the bottom of the wall, there is a Giant gate, where on both sides a big golden marble tower stands.
+Verlauh is a rich state, it's 9435 km² big, it also has a marble wall (10m thick and 50m high) spanning from the middle of the planet, back around until the top middle of the planet. A golden castle is standing in the inner top of the wall. in the middle of the wall, there is a plaza with a golden statue posing rich ontop of a heavy stone pedestal. There is a second plaze on the left, where a Springbrunnen is standing. The homes and towers are placed randomly around inside of the wall. on the bottom of the wall, there is a Giant gate, where on both sides a big golden marble tower stands.
 Hölett:
-Hölett has on the surface only an entrance, wich is a small hill, located on the "bottom" left side of the planet. The entrance reminds of an old mine shaft, a few wooden beams that prevents everything from collapsing.
+Hölett has on the surface only an entrance, wich is a small hill, 8m high and 15 leangh and 12 width, located on the "bottom" left side of the planet. The entrance reminds of an old mine shaft, a few wooden beams that prevents everything from collapsing.
 Läfern:
-Läfern is a state, wich has many big treees, wich also have entrances carved in on many places, like the stemm and on a brach into the stemm.
+Läfern is a 4.713 km² state, wich has many big treees (average 122m high and 23m diameter), wich also have entrances carved in on many places, like the stemm and on a brach into the stemm.
 It is located on the right side of the planet.
 There are no visible homes, altough most of the stuff they have is in the trees.
-
-
-
-Dramoteu is a spherical green planet floating within a deep purple Realmtrafkbubble. The land consists of five distinct countries separated by vast stretches of lush green grass.
-
-Dorens and Dragons Dorens is located on the far left side of the planet. This territory features a massive central red mountain with a flat top and a visible entrance carved into its upper-middle cliff. A cluster of smaller mountains and sharp peaks surrounds the main mountain. A continuous barbed-wire fence is anchored to these smaller peaks and several grey stone towers to create a perimeter. A large grey stone castle sits at the base of the central mountain.
-
-Kasumm Kasumm is a floating island hovering over the upper-right side of the planet. The island resembles a giant seashell and is connected to the ground by a thin line from its Trafkhafen port at the bottom. At the highest point of the island sits a giant clock which houses a massive factory for magical machines. On the right side of the island is a large wooden building serving as a library and school. The left side contains several brick residential buildings. A central plaza filled with benches and tables serves as a public discussion ground.
-
-Verlauh Verlauh is a wealthy state at the bottom of the planet. It is enclosed by a curved marble wall that spans from the center to the top-middle of the lower region. A golden castle stands at the inner-top of this walled area. In the center is a plaza featuring a golden statue of a wealthy figure on a heavy stone pedestal. To the left is another plaza containing a decorative fountain. Various homes and towers are scattered within the walls. At the very bottom is a giant gate flanked by two large golden marble towers.
-
-Hoelett Hoelett is a subterranean region with only a small entrance visible on the bottom-left surface of the planet. The entrance is a small hill that looks like an old mine-shaft reinforced with sturdy wooden beams to prevent collapse.
-
-Laefern Laefern is a forested state on the right side of the planet. It is dominated by massive green trees with thick brown trunks. Entrances are carved directly into the stems and branches of these trees. While no traditional houses are visible, all dwellings and facilities are contained within the hollowed-out trees.
-
-
+#### Realmtrafkbubble Rules:
+Standard Existenzen
+Verzauberungsveränderungserlaubnis
+#### Enchanted parts
+##### world
+shape
+stability
+gravity
+atmosphere
+weather
+##### Kasumm
+float
+##### Hölett
+atmosphere
 ### Regierungen:
 #### Dorens:
 Monarchie. Da sie eine gute Beziehung mit den Drachen pflegen, brauchen sie auch einen weisen Anführer die verhandlungen mit dem Drachenoberhaupt betreibt.
@@ -82,7 +81,7 @@ Höhle, Erforscher der Welt.
 #### Läfern:
 Schläfernd, ein langsames Pack, Ruhe mit der Eile, Zeit nehmen.
 # Culture
-## PreFirst/First War:
+## Beginning - First War:
 ### Soldiers per Empire:
 #### Dorens:
 Zauberer
