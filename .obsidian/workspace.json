@@ -11,10 +11,14 @@
             "id": "50cdf9e496c0e67c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "gameideas/good/DmtCttU_Dramoteu;ClaimtotheUrlstein.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Neuer Tab"
+              "title": "DmtCttU_Dramoteu;ClaimtotheUrlstein"
             }
           }
         ]
@@ -183,17 +187,21 @@
   "lastOpenFiles": [
     "lore/Worlds/Bröcklis.md",
     "lore/Worlds/Chaotis(nnp).md",
-    "lore/Worlds/Dramoteu/Dramoteu.md",
-    "lore/Worlds/Dramoteu Map Basic.png",
     "lore/Worlds/Dramoteu.md",
-    "lore/Worlds/Gartlotz.md",
-    "lore/Worlds/Gruhor.md",
     "lore/Worlds/Kosmos.md",
     "lore/Worlds/ReichderToten(nnp).md",
+    "lore/Worlds/UrselBeforeAlfonzReform.png",
+    "lore/Information/UseCasesforMagic(VielfaltderZauberkraftnutzung).md",
+    "lore/Information/TheBasisoftheTriverse(GrundgesetzederdreiBehälter).md",
+    "lore/Information/MagicBook(Zauberbuch).md",
+    "lore/Information/Alfönisß.md",
+    "lore/Worlds/Dramoteu/Dramoteu.md",
+    "lore/Worlds/Dramoteu Map Basic.png",
+    "lore/Worlds/Gartlotz.md",
+    "lore/Worlds/Gruhor.md",
     "lore/Worlds/Schneiheim(nnp).md",
     "lore/Worlds/Schüllen.md",
     "lore/Worlds/Spielthon.md",
-    "lore/Worlds/UrselBeforeAlfonzReform.png",
     "lore/Worlds/Ursel.md",
     "lore/Worlds/Verses.md",
     "lore/Worlds/None.png",
@@ -205,13 +213,8 @@
     "lore/Characters/Schüllen.md",
     "lore/Characters/Schneiheim(nnp).md",
     "lore/Characters/Reich der Toten(nnp).md",
-    "lore/Characters/Verses.md",
-    "lore/Characters/Chaotis(nnp).md",
-    "lore/Worlds/Zierpracht(nnp)/Zierpracht(nnp).md",
     "lore/Worlds/Zierpracht(nnp)",
-    "lore/Worlds/Wisshort(nnp)/Wisshort(nnp).md",
     "lore/Worlds/Wisshort(nnp)",
-    "lore/Worlds/Spielthon/Spielthon.md",
     "lore/Worlds/Spielthon",
     "lore/Worlds/Schüllen",
     "lore/Worlds/Schneiheim(nnp)",
