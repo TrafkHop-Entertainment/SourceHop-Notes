@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gameideas/good/DmtCttU_Dramoteu;ClaimtotheUrlstein.md",
+                "file": "lore/Worlds/Verses.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DmtCttU_Dramoteu;ClaimtotheUrlstein"
+              "title": "Verses"
             }
           }
         ]
@@ -185,6 +185,8 @@
   },
   "active": "50cdf9e496c0e67c",
   "lastOpenFiles": [
+    "lore/Worlds/None.png",
+    "gameideas/good/DmtCttU_Dramoteu;ClaimtotheUrlstein.md",
     "lore/Worlds/Bröcklis.md",
     "lore/Worlds/Chaotis(nnp).md",
     "lore/Worlds/Dramoteu.md",
@@ -204,7 +206,6 @@
     "lore/Worlds/Spielthon.md",
     "lore/Worlds/Ursel.md",
     "lore/Worlds/Verses.md",
-    "lore/Worlds/None.png",
     "lore/Worlds/Wisshort(nnp).md",
     "lore/Worlds/Zierpracht(nnp).md",
     "lore/Worlds/ReichderToten(nnp)/ReichderToten(nnp).md",
@@ -212,7 +213,6 @@
     "lore/Characters/Wisshort(nnp).md",
     "lore/Characters/Schüllen.md",
     "lore/Characters/Schneiheim(nnp).md",
-    "lore/Characters/Reich der Toten(nnp).md",
     "lore/Worlds/Zierpracht(nnp)",
     "lore/Worlds/Wisshort(nnp)",
     "lore/Worlds/Spielthon",
