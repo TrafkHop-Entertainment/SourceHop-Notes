@@ -1,32 +1,34 @@
 # All
-# The Child of Magic (Das Kind der Zauberkraft)
+# The Child of ZK (Das Kind der Zauberkraft)
 
 # Götterhierachie
-Kraft:  
-Kind der Kraft(0)
+ZK:  
+The Child(0)
 
-Kind der Kraft:  
-Alfonz(1)
+The Child:  
+Jaßwäh(1)
 
-Alfonz:  
-Jahnwes(2)  
+Jaßwäh:  
+Alfonz(2)
+
+Alfonz:
 Gaudo(4)  
-Gartna(7)
+Winella(7)
 
 Jahnwes:  
-Lunatrius(3)
+Lunnaddrius(3)
 
 Gaudo:  
 Felkn(5)  
 Tritmar(11)
 
-Lunatrius:  
+Lunnaddrius:  
 Drias(6)
 
-Gartna:  
-Schnitter(8)
+Winella:  
+Sßnidder(8)
 
-Schnitter:  
+Schnidda:  
 Glitzina(12)
 
 Drias:  

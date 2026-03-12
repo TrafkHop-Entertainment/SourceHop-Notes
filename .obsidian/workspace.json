@@ -20,6 +20,20 @@
               "icon": "lucide-file",
               "title": "Verses"
             }
+          },
+          {
+            "id": "07d76face8db6fac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lore/Characters/Verses.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Verses"
+            }
           }
         ]
       }
@@ -185,6 +199,8 @@
   },
   "active": "50cdf9e496c0e67c",
   "lastOpenFiles": [
+    "lore/Characters/Verses.md",
+    "lore/Worlds/Verses.md",
     "lore/Worlds/None.png",
     "gameideas/good/DmtCttU_Dramoteu;ClaimtotheUrlstein.md",
     "lore/Worlds/Bröcklis.md",
@@ -205,7 +221,6 @@
     "lore/Worlds/Schüllen.md",
     "lore/Worlds/Spielthon.md",
     "lore/Worlds/Ursel.md",
-    "lore/Worlds/Verses.md",
     "lore/Worlds/Wisshort(nnp).md",
     "lore/Worlds/Zierpracht(nnp).md",
     "lore/Worlds/ReichderToten(nnp)/ReichderToten(nnp).md",
