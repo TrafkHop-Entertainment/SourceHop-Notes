@@ -1,4 +1,7 @@
 # Alfönisß
+It is the language of the child, wich had to come up with something.
+It is a dialect of high german (it is not related, bus simelar enough)
+
 Warning: This is bestly understood by german speakers and even better by baverians/Austrians!
 # Buaßsdom(22):
 A B Z D E F G H I J L M N O R S U W Ä Ö Ü ß

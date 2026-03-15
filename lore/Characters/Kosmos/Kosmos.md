@@ -1,12 +1,15 @@
-# Jahen
+# jaßwäh
+## History
+### 2. Prison(287b154m685k bc)
+ Jaßwäh, whom had some memories and features of the child, understood why IT was going crazy and so he began to create a prison for the Child, so that it could not harm the ALL's Project and anything else. He created a special BackTrafkBubble with some secret Atris that shielded the Child from most of the thoughts of the All and prevented it from ever escaping it. But because  Jaßwäh also had a weak mind, was also affected by the Child and slowly also went more and more depressed. So  Jaßwäh created another self, a clone, no a brother. He created Alfonz, a strong minded, kind hearted, good being. As  Jaßwäh introduced himself to Alfonz, he called himself Jahnwes, so to let the past behind. Alfonz did not know that this was not Jahnwes true name. Anyway the 2 finished the prison and began sealing the Child away. The Child, which was becoming stronger every second (the ALL has a link to the Child and so it recieves ZK all the Time), gave Alfonz almost all of its ZK. The rest was needed to power the Barriers of the bubble, it used the power of the Child, wich also limited power growth. Shortly before the Child went insane and bad, it was done, it was finally "save".
+The Child was imprisoned, the ALL realizing that the main threat of a restart was tamed left the None alone for the time being and Alfonz, oh Alfonz...
+He was destroyed, his mind barely sane. He saw EVERY MEMORY of the Child, while sealing it away. With the help of Jaßwäh he slowly recovered, but he is forever scarred and scared. He also gained a small, weak, but sturdy link to the Child, wich lets him know what it does, but also what he thinks and feels. This is mentally very demanding, but neccesary.
 
 
 # Pyley
 ## Daten:
 ### Name:
 Pyley ...
-
-Alfönisß = Beiläi ...  
 ### Größe:
 1.86m
 ### Geburtsdatum:
@@ -15,6 +18,8 @@ Alfönisß = Beiläi ...
 Österreich & Italien (50/50)
 ### Staatsbürgerschaft:
 Österreich
+
+## Persönlichkeit:
 
 ## Lebenslauf:  
 Beruflich: Ging auch zur HTL und war kurzzeitig mit Filan in der selben Klasse. In der Schule war er als der coole Komiker bekannt. Nach der 5-jährigen HTL, ging er in eine Marketing Schule für 1 Jahr und bekam kurz danach auch gleich seinen ersten Auftrag: Einen Lüfter/Ventilator Werbespot. Dieser war so witzig, dass er direkt zum Meme des Jahres 2025 wurde und von allen möglichen Firmen Werbespot-Angebote bekam. (da war er 20) Zusätzlich löste er mit dem Spot das Revival der alten Memes aus! (MLG, Dank, Poop,...)
@@ -26,8 +31,6 @@ Nebenbei rannte er jeden Tag 4km! Er schaffte die Strecke dabei in nur 13 Minute
 ## Daten:
 ### Name:
 Filan ...
-
-Alfönisß: Feilän ...
 Alter Name: Filay
 ### Größe:
 1.58m  
@@ -37,6 +40,8 @@ Alter Name: Filay
 Österreich  
 ### Staatsbürgerschaft:
 Österreich
+
+## Persönlichkeit
 
 ## Lebenslauf:  
 Beruflich: Er ging zu einer HTL, übersprang da die 2., 3. und 4. Klasse (da ist er 16, 2021) und studierte dann im Feld KI für 3 Jahre. Daraufhin schrieb er eine neue KI mit neuem Algorithmus. Nach 2 ganzen Jahren trainieren (am 1. April 2026), erlangte die KI ein Bewusstsein. Dafür bekam er den Nobelpreis!  
