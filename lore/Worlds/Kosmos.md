@@ -6,17 +6,23 @@
 Its our observable Universe and what lies beyond. All of that inside of a singular Worldtrafkbubble.
 ## Terra | Earth
 its our Earth, our Planet, our Home.
-### Austria
-#### Ternberg
-#### Steyr
-#### ST. Ulrich
+## Austria
+### Ternberg
+### Steyr
+### ST. Ulrich
 
 # History
 
 # Culture
 # Austria
+normal wie in z.B. 2012
+eben nur:
++Südtirol
+-Burgenland
++Lichtenstein
 ## Hymne (after WW3)
 
+1 - Allgemein
 1. Gott erhalte, Gott beschütze
    unsern Kaiser, Volk und Land!
    Mächtig durch des Kraftes Stütze
@@ -26,7 +32,8 @@ its our Earth, our Planet, our Home.
    Innig bleibt mit Habsburgs Throne
    Österreichs Neutralität gewährt'.
 
-2. Fromm und bieder, wahr und offen
+2 - Land verteidigen (neutralität und so, bundeswehr)
+1. Fromm und bieder, wahr und offen
    lasst für Recht und Pflicht uns stehn,
    lasst, wenn's gilt, mit frohem Hoffen
    muthvoll in den Kampf uns gehn!
@@ -35,7 +42,8 @@ its our Earth, our Planet, our Home.
    Gut und Blut für unsern Kaiser,
    Gut und Blut für's Vaterland!
 
-3. Was der Bürger Fleiß geschaffen
+3 - Volk ()
+1. Was der Bürger Fleiß geschaffen
    schütze treu des Kriegers Kraft;
    mit des Geistes heitern Waffen
    siege Kunst und Wissenschaft!
@@ -44,7 +52,8 @@ its our Earth, our Planet, our Home.
    Gottes Sonne strahl' in Frieden
    auf ein glücklich Österreich!
 
-4. Lasst uns fest zusammenhalten;
+4 - Land (Österreich, Land der berge usw.)
+1. Lasst uns fest zusammenhalten;
    in der Eintracht liegt die Macht,
    mit vereinter Kräfte Walten
    wird das Schwerste leicht vollbracht.
@@ -53,7 +62,8 @@ its our Earth, our Planet, our Home.
    Heil dem Kaiser, Heil dem Lande;
    Österreich wird ewig stehn!
 
-5. An des Kaisers Seite waltet,
+5 - Habsburg, Kraft, etc
+1. An des Kaisers Seite waltet,
    ihm verwandt durch Stamm und Sinn,
    reich an Reiz, der nie veraltet,
    unsre holde Kaiserin.
