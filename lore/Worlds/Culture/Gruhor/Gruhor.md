@@ -1,2 +1,0 @@
-# Gruo
-# Die auserwählte Gruana

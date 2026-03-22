@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lore/Worlds/Kosmos.md",
+                "file": "lore/Worlds/Culture/Kosmos/Austria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kosmos"
+              "title": "Austria"
             }
           }
         ]
@@ -183,24 +183,37 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "50cdf9e496c0e67c",
+  "active": "185a57ccd03ec76b",
   "lastOpenFiles": [
-    "lore/Worlds/History/None/None.md",
+    "2. Song 1.mp3",
+    "lore/Worlds/Culture/Kosmos/Austria.md",
+    "lore/Worlds/Culture/Kosmos/Kosmos.md",
+    "Checklist.md",
+    "README.md",
+    "TrafkhopEntertainmentIntroductionVideoScript.md",
+    "lore/Worlds/History/History.md",
+    "lore/Worlds/Culture/Bröcklis/Bröcklis.md",
+    "lore/Worlds/Culture/Chaotis(nnp)/Chaotis(nnp).md",
+    "lore/Worlds/Culture/Dramoteu/Dramoteu.md",
+    "lore/Worlds/Culture/Gartlotz/Gartlotz.md",
+    "lore/Worlds/Culture/Gruhor/Gruhor.md",
+    "lore/Worlds/Culture/Reich der Toten(nnp)/Reich der Toten(nnp).md",
+    "lore/Worlds/Culture/Schneiheim(nnp)/Schneiheim(nnp).md",
+    "lore/Worlds/Culture/Schüllen/Schüllen.md",
+    "lore/Worlds/Culture/Spielthon/Spielthon.md",
+    "lore/Worlds/Culture/Ursel/Ursel.md",
     "lore/Worlds/Culture/Zierpracht(nnp)/Zierpracht(nnp).md",
     "lore/Worlds/Culture/Wisshort(nnp)/Wisshort(nnp).md",
-    "lore/Worlds/Culture/Ursel/Ursel.md",
-    "lore/Worlds/Culture/Spielthon/Spielthon.md",
-    "lore/Worlds/Culture/Schüllen/Schüllen.md",
-    "lore/Worlds/Culture/Schneiheim(nnp)/Schneiheim(nnp).md",
-    "lore/Worlds/Culture/Reich der Toten(nnp)/Reich der Toten(nnp).md",
-    "lore/Worlds/Culture/None/Verses.md",
-    "lore/Worlds/Culture/Kosmos/Kosmos.md",
-    "lore/Worlds/Culture/Gruhor/Gruhor.md",
-    "lore/Worlds/Culture/Gartlotz/Gartlotz.md",
-    "lore/Worlds/Culture/Dramoteu/Dramoteu.md",
-    "lore/Worlds/Culture/Chaotis(nnp)/Chaotis(nnp).md",
-    "lore/Worlds/Culture/Bröcklis/Bröcklis.md",
-    "lore/Worlds/Culture/All/Verses.md",
+    "lore/Worlds/Culture/Verses/None.md",
+    "lore/Worlds/Culture/Verses/All.md",
+    "lore/Information/Verses.md",
+    "lore/Worlds/Geography/Verses/None.md",
+    "lore/Worlds/Geography/Verses/All.md",
+    "lore/Worlds/Geography/Zierpracht(nnp)/Zierpracht(nnp).md",
+    "lore/Worlds/Geography/Wisshort(nnp)/Wisshort(nnp).md",
+    "lore/Worlds/Geography/Dramoteu/Dramoteu Map Basic.png",
+    "lore/Worlds/Geography/Verses/None.png",
+    "lore/Worlds/Geography/Verses",
     "lore/Worlds/Culture/Zierpracht(nnp)",
     "lore/Worlds/Culture/Wisshort(nnp)",
     "lore/Worlds/Culture/Ursel",
@@ -209,18 +222,6 @@
     "lore/Worlds/Culture/Schneiheim(nnp)",
     "lore/Worlds/Culture/Reich der Toten(nnp)",
     "lore/Worlds/Culture/None",
-    "lore/Worlds/Culture/Kosmos",
-    "lore/Worlds/Culture/Gruhor",
-    "lore/Worlds/Geography/Zierpracht(nnp)/Zierpracht(nnp).md",
-    "lore/Worlds/Geography/Wisshort(nnp)/Wisshort(nnp).md",
-    "lore/Worlds/Geography/Ursel/Ursel.md",
-    "lore/Worlds/Geography/Spielthon/Spielthon.md",
-    "lore/Worlds/Geography/Schüllen/Schüllen.md",
-    "lore/Worlds/Geography/Schneiheim(nnp)/Schneiheim(nnp).md",
-    "lore/Worlds/Geography/Reich der Toten(nnp)/Reich der Toten(nnp).md",
-    "lore/Worlds/Geography/None/Verses.md",
-    "lore/Worlds/Geography/Kosmos/Kosmos.md",
-    "lore/Worlds/Geography/Gruhor/Gruhor.md",
     "lore/Worlds/None.png",
     "lore/Worlds/UrselBeforeAlfonzReform.png",
     "lore/Worlds/Dramoteu Map Basic.png",
@@ -228,8 +229,6 @@
     "gameideas/good/Dramoteu;ClaimtotheUrlstein/RTS Game Menu v1.png",
     "gameideas/good/Dramoteu;ClaimththeUrlstein/RTS Game Menu v1.png",
     "lore/Worlds/other/None.png",
-    "lore/Worlds/other/Die 13 Welten.png",
-    "lore/Worlds/Ursel/UrselBeforeAlfonzReform.png",
-    "lore/Worlds/Dramoteu/Dramoteu Map Basic.png"
+    "lore/Worlds/other/Die 13 Welten.png"
   ]
 }
