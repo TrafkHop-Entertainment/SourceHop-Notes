@@ -37,7 +37,7 @@
 * flatpak
 * gparted
 * gedit
-* kolourpaint
+* kolourpaintc
 ## AFTER THAT ALL
 * yay
   sudo pacman -S --needed base-devel git  
