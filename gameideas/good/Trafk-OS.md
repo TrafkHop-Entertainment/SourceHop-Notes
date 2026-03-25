@@ -36,6 +36,8 @@
 * gufw
 * flatpak
 * gparted
+* gedit
+* kolourpaint
 ## AFTER THAT ALL
 * yay
   sudo pacman -S --needed base-devel git  
@@ -73,12 +75,10 @@ cp /usr/share/hyprland/hyprland.conf ~/.config/hypr/hyprland.conf
 * kdenlive
 * audacity
 * obs-studio
-* kolourpaint
 * gimp
 * qalculate-gtk
 * obsidian
 * libreoffice-fresh
-* kate
 ## drivers
 * opentabletdriver
 * webcamoid
