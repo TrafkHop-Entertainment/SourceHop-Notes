@@ -19,27 +19,30 @@ Es soll einen gui installer haben, indem man zusätzlich verschiedene paketgrupp
 * extra Paket: archiso
 * exit archinstall
 # Nötige Pakete:
-sudo pacman -Syy --needed base linux linux-firmware linux-headers bash-completion noto-fonts noto-fonts-emoji ntfs-3g gvfs gvfs-mtp gvfs-smb p7zip unrar zip unzip cups cups-pdf avahi bluez-cups bluez-utils xdg-user-dirs upower acpi acpi_call power-profiles-daemon qt5-wayland qt6-wayland system-config-printer grub polkit-kde-agent sddm vulkan-radeon mesa vulkan-intel hyprland waybar hyprpaper hyprlock rofi dunst pipewire pipewire-pulse pipewire-alsa wireplumber pavucontrol xorg-xwayland dolphin foot grim slurp wl-clipboard cliphist bluez bluez-utils blueman xdg-desktop-portal-hyprland xdg-desktop-portal-gtk hypridle networkmanager network-manager-applet firefox nano htop imv ufw qt5ct qt6ct playerctl sof-firmware pipewire-jack nwg-look kvantum gufw flatpak gparted kate kolourpaint ark fastfetch fuse2 mtools dosfstools nvidia-open nvidia-utils nvidia-settings egl-wayland libva-utils lib32-vulkan-radeon lib32-mesa lib32-vulkan-intel lib32-nvidia-utils brightnessctl dolphin-plugins base-devel git keyd print-manager hplip xdg-user-dirs-gtk qt5-imageformats kimageformats sddm-kcm wget curl noto-fonts-cjk
-
-sudo pacman -S  ttf-jetbrains-mono-nerd
+sudo pacman -Syy --needed linux linux-firmware linux-headers bash-completion noto-fonts noto-fonts-emoji ntfs-3g gvfs gvfs-mtp gvfs-smb p7zip unrar zip unzip cups cups-pdf avahi bluez-cups bluez-utils xdg-user-dirs power-profiles-daemon qt5-wayland qt6-wayland system-config-printer grub hyprpolkitagent polkit sddm vulkan-radeon mesa vulkan-intel hyprland waybar hyprpaper hyprlock rofi dunst pipewire pipewire-pulse pipewire-alsa wireplumber pavucontrol xorg-xwayland dolphin kitty grim slurp wl-clipboard cliphist bluez bluez-utils blueman xdg-desktop-portal-hyprland xdg-desktop-portal-gtk hypridle networkmanager network-manager-applet firefox nano htop imv ufw nwg-look kvantum playerctl sof-firmware pipewire-jack gufw flatpak gparted kate kolourpaint ark fastfetch fuse2 mtools dosfstools nvidia-open nvidia-utils nvidia-settings egl-wayland lib32-vulkan-radeon lib32-mesa lib32-vulkan-intel lib32-nvidia-utils brightnessctl dolphin-plugins base-devel git keyd print-manager hplip xdg-user-dirs-gtk qt5-imageformats kimageformats sddm-kcm wget curl noto-fonts-cjk pipewire-audio noise-suppression-for-voice qt5-multimedia qt6-multimedia upower ttf-jetbrains-mono-nerd breeze breeze-gtk
 
 git clone [https://aur.archlinux.org/yay.git](https://aur.archlinux.org/yay.git "https://aur.archlinux.org/yay.git")
 cd yay
 makepkg -si
 
-yay -S calamares
+yay -S calamares xwaylandvideobridge
 
 flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
 
-sudo systemctl enable sddm
-sudo systemctl enable NetworkManager
-sudo systemctl enable bluetooth
-sudo systemctl enable cups.service
+sudo systemctl enable sddm NetworkManager bluetooth cups.service avahi-daemon keyd
+
 systemctl --user enable pipewire pipewire-pulse wireplumber
 xdg-user-dirs-update
+grub-mkconfig
 
 mkdir -p ~/.config/hypr
 cp /usr/share/hyprland/hyprland.conf ~/.config/hypr/hyprland.conf
+
+ * Clay (icon theme)
+   Installation : In Home folder
+   Make folder .icons in your home folder Download the tar file and extract in it In terminal run command ~$ gtk-update-icon-cache ~/.icons/namefile (ex : Clay) OR
+   In Root folder
+   Download the tar file, copy and extract it in /usr/share/icons (can use GUI via file manager as Root or command line) In terminal run command ~$ sudo gtk-update-icon-cache /usr/share/icons/namefile (ex : Clay)
 
 # Optional packages
 ## Social
@@ -47,7 +50,7 @@ cp /usr/share/hyprland/hyprland.conf ~/.config/hypr/hyprland.conf
 * thunderbird
 ## Multimedia
 * qbittorrent
-* makemkv + makemkv-libaacs
+* makemkv + makemkv-libaacs (yay)
 * asunder
 * handbrake
 * vlc + vlc-plugins-all + ffmpeg
@@ -80,8 +83,8 @@ cp /usr/share/hyprland/hyprland.conf ~/.config/hypr/hyprland.conf
 * steam
 * itch-bin
 * heroic-games-launcher-bin
-* mangohud-git
-* winetricks wine-staging wine-gecko
+* mangohud
+* winetricks wine-staging wine-gecko wine-mono
 * waydroid
 * gamemode
 * lsfg-vk-git  
@@ -118,14 +121,13 @@ cp /usr/share/hyprland/hyprland.conf ~/.config/hypr/hyprland.conf
 * shadps4-qtlauncher-bin
 * kega-fusion
 * flycast-git
-* virtualboy emulator search!
+* vbam-wx
 * sudo pacman -S virt-manager qemu-full libvirt dnsmasq
   sudo systemctl enable --now libvirtd
   sudo usermod -aG libvirt $USER
 ### Local Disk Games
 * Ya can't add them ofc, but the notes don't lie
 # Theming to be done:
-## Selber Machen:
 * Hyprland
   ~/.config/hypr/hyprland.conf
 * waybar
@@ -138,5 +140,4 @@ cp /usr/share/hyprland/hyprland.conf ~/.config/hypr/hyprland.conf
 * Curser Theme
 * Calamares
 * fastfetch
-## Suchen und Selber Machen
-GTK-Theme (und anpassen)
+* breeze-Theme anpassen
