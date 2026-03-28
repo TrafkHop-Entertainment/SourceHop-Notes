@@ -18,8 +18,17 @@ Es soll einen gui installer haben, indem man zusätzlich verschiedene paketgrupp
 * Europe/Vienna
 * extra Paket: archiso
 * exit archinstall
+* 
+* sudo pacman -S papirus-icon-theme
+* 
+ * Clay (icon theme)
+   Installation : In Home folder
+   Make folder .icons in your home folder Download the tar file and extract in it In terminal run command ~$ gtk-update-icon-cache ~/.icons/namefile (ex : Clay) OR
+   In Root folder
+   Download the tar file, copy and extract it in /usr/share/icons (can use GUI via file manager as Root or command line) In terminal run command ~$ sudo gtk-update-icon-cache /usr/share/icons/namefile (ex : Clay)
+
 # Nötige Pakete:
-sudo pacman -Syy --needed linux linux-firmware linux-headers bash-completion noto-fonts noto-fonts-emoji ntfs-3g gvfs gvfs-mtp gvfs-smb p7zip unrar zip unzip cups cups-pdf avahi bluez-cups bluez-utils xdg-user-dirs power-profiles-daemon qt5-wayland qt6-wayland system-config-printer grub hyprpolkitagent polkit sddm vulkan-radeon mesa vulkan-intel hyprland waybar hyprpaper hyprlock rofi dunst pipewire pipewire-pulse pipewire-alsa wireplumber pavucontrol xorg-xwayland dolphin kitty grim slurp wl-clipboard cliphist bluez bluez-utils blueman xdg-desktop-portal-hyprland xdg-desktop-portal-gtk hypridle networkmanager network-manager-applet firefox nano htop imv ufw nwg-look kvantum playerctl sof-firmware pipewire-jack gufw flatpak gparted kate kolourpaint ark fastfetch fuse2 mtools dosfstools nvidia-open nvidia-utils nvidia-settings egl-wayland lib32-vulkan-radeon lib32-mesa lib32-vulkan-intel lib32-nvidia-utils brightnessctl dolphin-plugins base-devel git keyd print-manager hplip xdg-user-dirs-gtk qt5-imageformats kimageformats sddm-kcm wget curl noto-fonts-cjk pipewire-audio noise-suppression-for-voice qt5-multimedia qt6-multimedia upower ttf-jetbrains-mono-nerd breeze breeze-gtk os-prober jq
+sudo pacman -Syy --needed linux linux-firmware linux-headers bash-completion noto-fonts noto-fonts-emoji ntfs-3g gvfs gvfs-mtp gvfs-smb p7zip unrar zip unzip cups cups-pdf avahi bluez-cups bluez-utils xdg-user-dirs power-profiles-daemon qt5-wayland qt6-wayland system-config-printer grub hyprpolkitagent polkit sddm vulkan-radeon mesa vulkan-intel hyprland waybar hyprpaper hyprlock rofi dunst pipewire pipewire-pulse pipewire-alsa wireplumber pavucontrol xorg-xwayland dolphin kitty grim slurp wl-clipboard cliphist bluez bluez-utils blueman xdg-desktop-portal-hyprland xdg-desktop-portal-gtk hypridle networkmanager network-manager-applet firefox nano htop imv ufw nwg-look kvantum playerctl sof-firmware pipewire-jack gufw flatpak gparted kate kolourpaint ark fastfetch fuse2 mtools dosfstools nvidia-open nvidia-utils nvidia-settings egl-wayland lib32-vulkan-radeon lib32-mesa lib32-vulkan-intel lib32-nvidia-utils brightnessctl dolphin-plugins base-devel git keyd print-manager hplip xdg-user-dirs-gtk qt5-imageformats kimageformats sddm-kcm wget curl noto-fonts-cjk pipewire-audio noise-suppression-for-voice qt5-multimedia qt6-multimedia upower ttf-jetbrains-mono-nerd breeze breeze-gtk os-prober jq vlc vlc-plugins-all ffmpeg gwenview kio-admin qt5ct qt6ct kde-cli-tools
 
 git clone [https://aur.archlinux.org/yay.git](https://aur.archlinux.org/yay.git "https://aur.archlinux.org/yay.git")
 cd yay
@@ -38,17 +47,6 @@ grub-mkconfig
 mkdir -p ~/.config/hypr
 cp /usr/share/hyprland/hyprland.conf ~/.config/hypr/hyprland.conf
 
- * Clay (icon theme)
-   Installation : In Home folder
-   Make folder .icons in your home folder Download the tar file and extract in it In terminal run command ~$ gtk-update-icon-cache ~/.icons/namefile (ex : Clay) OR
-   In Root folder
-   Download the tar file, copy and extract it in /usr/share/icons (can use GUI via file manager as Root or command line) In terminal run command ~$ sudo gtk-update-icon-cache /usr/share/icons/namefile (ex : Clay)
-
-in `/etc/default/grub` diese Zeile einkommentieren:
-GRUB_DISABLE_OS_PROBER=false
-Dann:
-sudo grub-mkconfig -o /boot/grub/grub.cfg
-
 # Optional packages
 ## Social
 * discord
@@ -58,7 +56,6 @@ sudo grub-mkconfig -o /boot/grub/grub.cfg
 * makemkv + makemkv-libaacs (yay)
 * asunder
 * handbrake
-* vlc + vlc-plugins-all + ffmpeg
 ## Work
 * python
 * cmake
@@ -146,3 +143,9 @@ sudo grub-mkconfig -o /boot/grub/grub.cfg
 * Calamares
 * fastfetch
 * breeze-Theme anpassen
+  
+  
+  # Was bis jrtzt zum übernehmen wäre
+  ~/.config (vorher firefox dings und so löschen, ABER Theme beibehalten was installiert und aktiviert ist)
+  /usr/share/icons
+  ~/.local/share/trafkhop-entertainment
