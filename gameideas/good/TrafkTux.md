@@ -1,12 +1,8 @@
 Hey, will eine Linux Distro erstellen!
-
-Diese soll grub sddm hyprland(master) wallpaper waybar rofi dolphin cursertheme calamares und fastfetch customized haben. und so hald.
-
-Es soll einen gui installer haben, indem man zusätzlich verschiedene paketgruppen mitauswählen kann (inc. yay & flatpak pakete). Rofi soll auch verschiedene softwaregruppen haben, die man wie ordner öffnen kann (soll auch verschachtelt funktionieren). Wenn möglich soll die rofi active windows anzeige auf waybar angezeigt werden und klickbar sein. Alle typischen F Tasten und Laptop Tasten sollen funktionieren. bluetooth, wlan, drucker (inc canon), etc sollen einwandfrei funktionieren.
-
 Das sind meine Notizen dazu und was ich schon hab. Wie findest du es bis jetzt?
+(also du musst jetzt nicht alle kleinigkeiten wie den normalen linux kernel oder so extra sagen, weiß ich eh schon alles)(noch was: die pakete sind nicht umsonst in abteile unterteilt, das für mich nötigste ist in nötige, der rest ist extra)(die aur pakete und so werden als post install scripts installiert! Ist am einfachsten)(manche sachen wie keyd oder so sind nur für die anderen da, ich benutz es nicht, aber es ist ein feature was man haben sollte) (ja ich hab alle treiber gleich drinnen, könnte ich höchstens in calamares dann später einzeln machen) (das distro ohne extra pakete hat grad ca 12gb, also wenn man das ohne extra pakete installiert, dolphin sagt das immerhin. Das ist keine iso, dass ist wenn man über dolphin im os schaut!! ) (über das builden der iso, sprich archiso und calamares mach ich mir erst später sorgen)
 
-# Zum selber Installieren
+# Zum selber Installieren (pre archiso)
 ## archinstall
 * english
 * de de_AT UTF-8
@@ -36,7 +32,7 @@ git clone [https://aur.archlinux.org/yay.git](https://aur.archlinux.org/yay.git 
 cd yay
 makepkg -si
 
-yay -S calamares xwaylandvideobridge
+yay -S calamares xwaylandvideobridge pamac-all
 
 flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
 
@@ -49,7 +45,11 @@ sudo grub-mkconfig -o /boot/grub/grub.cfg
 mkdir -p ~/.config/hypr
 cp /usr/share/hyprland/hyprland.conf ~/.config/hypr/hyprland.conf
 
-# Optional packages (alle in extra skripts packen)
+sudo nano /etc/default/grub
+GRUB_DISABLE_OS_PROBER=false
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+
+# Optional packages (alle in extra skripts packen) (not on normal installation)
 ## Social
 * discord
 * thunderbird
@@ -164,13 +164,17 @@ cp /usr/share/hyprland/hyprland.conf ~/.config/hypr/hyprland.conf
   Ein Element ist eine Trafkblase, eine Lila Seifenartige Blase, dunkellilablau. Alles in Blender modelliert. Wenn man eine sache anvisiert, dann leutet diese blase vom inneren aus gelblich (mana, Kraft).
   Die Suchleiste ist eine Gestreckte Version Davon
   
-* #### hyprpaper
-  braucht noch mehr bilder UND ein opt bg skript UND einfach noch verbessern
-* #### hyprlock
-  wem mach ich was vor, ist nur ki generiert als template, MACHS SELBER DU FAULE SEMMEL
+* #### hyprpaper (FAST Fertig)
+  braucht noch mehr bilder UND ein opt bg skript
+* #### hyprlock (Fertig)
+  Ein BG wo LOCK steht welches rot leuchtet. in der mitte das search menü aus rofi (vom look her), da pswd eingeben
 * #### Trafk-OS_Cursor (FERTIG)
-  Es ist ein 45px low res blender render von einer "cartoon" hand mit outline. Hat 2 open hands, pointer, text, grab, resize, Xdenied und ne 9 frame wait animation
-# Was bis jetzt zum übernehmen wäre
+  Es ist ein 45px low res blender render von einer "cartoon" hand mit outline. Hat 2 open hands, pointer, text, grab, resize, Xdenied und ne 9 frame wait animation.
+* #### Fastfetch (Fertig)
+  Eine Trafkblase in der Farbe eben(lilablau) und das fette ist die Kraft Farbe(gelb)
+* #### Grub (Ein bisschen was ist schon da)
+  In Grub steht schon TrafkTux drinnen, genauso wie in fastfetch und anders
+# Was bis jetzt zum übernehmen wäre (für archiso)
   
   ~/.config
   
@@ -189,3 +193,34 @@ etc/hostname
 
 
   In Calamares, ka wie das genau geht, aber ich denke mir das es ähnlich wie in archinstall bereits voreingestelltes gibt, language, services, repo server für pacman, etc. Also Archiso hald oder so ka...
+# Readme
+TrafkTux is an arch-based Distro that focuses on mouse control and non minimalism. It has nice looking menus with 3d assets to make it more appealing (for the creator), it has many optional packages for almost anything, it feels good to use and etc.
+
+
+## Setup
+You can install the base system with the installer.
+The optional packages will be post install scripts that start automaticly after the first boot (it can take a while if you want everything). Alternativly the scripts are also in the ~/.config/trafktux folder!
+## Keybinds:
+Super +:
+Tab: custom rofi menu
+shift+Tab: open windows
+ctrl/alt+tab: normal rofi menus
+circumflex (^): windowedfullscreen
+shift+circumflex (^): exclusivefullscreen
+ctrl+circumflex (^): hide windows
+escape: custom power menu / close app
+space: terminal (kitty)
+wasd: focus other windows
+shift+wasd: change window size
+left mouse button: move windows
+right mouse button: resize windows?
+left mouse without super: resize windows on the border
+
+print: screenshot
+shift/ctrl/alt also do something like that
+
+laptop keys work aswell
+
+## Screenshots
+there are none...
+
