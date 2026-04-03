@@ -84,6 +84,7 @@ cp /usr/share/hyprland/hyprland.conf ~/.config/hypr/hyprland.conf
 * trayscale
 * MEGA
   wget https://mega.nz/linux/repo/Arch_Extra/x86_64/megasync-x86_64.pkg.tar.zst && sudo pacman -U "$PWD/megasync-x86_64.pkg.tar.zst"
+* archiso (dev option, inc archiso folder in home)
 ## Games
 * steam
 * itch-bin
@@ -201,5 +202,15 @@ utze Symlinks, um die restlichen Namen abzudecken. Zum Beispiel verlinkst du poi
   /usr/share/icons
 
 ~/.local/share/icons  
+
+etc/os-release
+etc/issue
+etc/os-release.trafk
+usr/share/libalpm/hooks/trafktux-logo.hook
+etc/default/grub
+etc/hostname
+
+~/archiso   (optionale option, für mich damit ich selber wieder das kompilieren kann, wenn ich was ändern will wenn ich nicht mehr einen vm benutze)
+
 
   In Calamares, ka wie das genau geht, aber ich denke mir das es ähnlich wie in archinstall bereits voreingestelltes gibt, language, services, repo server für pacman, etc. Also Archiso hald oder so ka...
