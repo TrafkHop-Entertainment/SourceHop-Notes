@@ -136,22 +136,23 @@ cp /usr/share/hyprland/hyprland.conf ~/.config/hypr/hyprland.conf
 # Theming to be done:
 * Hyprland
 * waybar
-* rofi
+* rofi (Done)
 * Grub
 * Sddm
 * Wallpaper
 * Dolphin (File Explorer)
-* Curser Theme
+* Curser Theme (Done)
 * Calamares
-* fastfetch
+* fastfetch (Done)
 * breeze-Theme anpassen
 * Skripte fürs installieren machen und so
-* hyprlock
+* hyprlock (Done)
 * plymouth
+* (Bonus:) Ollama KI
 
 ### "Fertig" & Was fehlt:
-* #### Hyprland
-  überlege noch ob scrolling als 3. Option (1. Master, 2. Dwindle) gut wäre
+* #### Hyprland (FERTIG)
+  hat einen leuchtendgelben schatten, keinen rand, keine rundung und 15px abstand(innen). Dwindle und Master mit Keybinds die linke hand benutzen und gute maus support.
 
 * #### Rofi (FERTIG)
   Rofi hat 2 Menüs: app-menu und power-menu
@@ -167,34 +168,8 @@ cp /usr/share/hyprland/hyprland.conf ~/.config/hypr/hyprland.conf
   braucht noch mehr bilder UND ein opt bg skript UND einfach noch verbessern
 * #### hyprlock
   wem mach ich was vor, ist nur ki generiert als template, MACHS SELBER DU FAULE SEMMEL
-* #### Trafk-OS_Cursor
-  Da brauch ich noch viele Cursor
-  
-  left_ptr    check  
-  default Meist ein Symlink auf left_ptr.  
-  arrow Ein weiterer Fallback für den Standard-Pfeil.  
-  hand2 Die Hand, die erscheint, wenn du über einen Link fährst.  
-  pointer Oft identisch mit hand2.  
-  
-  wait: Die klassische Eieruhr oder das Lade-Symbol.  
-  watch: Ähnlich wie wait, oft das Symbol für „Hintergrundaktivität“.  
-  progress / left_ptr_watch: Der Pfeil mit einem kleinen Lade-Symbol daneben.  
-  not-allowed / crossed_circle: Wenn du etwas nicht anklicken oder dort nicht ablegen kannst.  
-  
-  xterm / ibeam / text: Der senkrechte Strich beim Markieren von Text.  
-  crosshair: Das Fadenkreuz (oft in Grafikprogrammen oder bei Screenshots mit slurp).  
-  help / question_arrow: Pfeil mit Fragezeichen daneben.  
-  
-  move / fleur: Das Vier-Pfeile-Symbol zum Verschieben.  
-  n-resize, s-resize, e-resize, w-resize: Pfeile für oben, unten, rechts, links.  
-  ne-resize, nw-resize, se-resize, sw-resize: Die diagonalen Ecken.  
-  col-resize / row-resize: Wenn du Spalten oder Zeilen verschiebst (z.B. im Browser-Inspektor).  
-  
-  dnd-copy: Pfeil mit kleinem Plus (Kopieren).  
-  dnd-move: Normaler Pfeil beim Ziehen (Verschieben).  
-  dnd-none / dnd-no-drop: Wenn du hier nichts fallen lassen kannst.
-
-utze Symlinks, um die restlichen Namen abzudecken. Zum Beispiel verlinkst du pointing_hand einfach auf dein hand2-Modell.
+* #### Trafk-OS_Cursor (FERTIG)
+  Es ist ein 45px low res blender render von einer "cartoon" hand mit outline. Hat 2 open hands, pointer, text, grab, resize, Xdenied und ne 9 frame wait animation
 # Was bis jetzt zum übernehmen wäre
   
   ~/.config
