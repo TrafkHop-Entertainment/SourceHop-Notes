@@ -2,7 +2,7 @@ Hey, will eine Linux Distro erstellen!
 Das sind meine Notizen dazu und was ich schon hab. Wie findest du es bis jetzt?
 (also du musst jetzt nicht alle kleinigkeiten wie den normalen linux kernel oder so extra sagen, weiß ich eh schon alles)(noch was: die pakete sind nicht umsonst in abteile unterteilt, das für mich nötigste ist in nötige, der rest ist extra)(die aur pakete und so werden als post install scripts installiert! Ist am einfachsten)(manche sachen wie keyd oder so sind nur für die anderen da, ich benutz es nicht, aber es ist ein feature was man haben sollte) (ja ich hab alle treiber gleich drinnen, könnte ich höchstens in calamares dann später einzeln machen) (das distro ohne extra pakete hat grad ca 12gb, also wenn man das ohne extra pakete installiert, dolphin sagt das immerhin. Das ist keine iso, dass ist wenn man über dolphin im os schaut!! ) (über das builden der iso, sprich archiso und calamares mach ich mir erst später sorgen)
 
-# Zum selber Installieren (pre archiso)
+# What i did to start:
 ## archinstall
 * english
 * de de_AT UTF-8
@@ -134,13 +134,13 @@ sudo grub-mkconfig -o /boot/grub/grub.cfg
 ### Local Disk Games
 * Ya can't add them ofc, but the notes don't lie
 # Theming to be done:
-* Hyprland
-* waybar
+* Hyprland (Done)
+* waybar ("Done")
 * rofi (Done)
-* Grub
+* Grub (something)
 * Sddm
-* Wallpaper
-* Dolphin (File Explorer)
+* hyprpaper ("done")
+* Dolphin
 * Curser Theme (Done)
 * Calamares
 * fastfetch (Done)
@@ -151,6 +151,7 @@ sudo grub-mkconfig -o /boot/grub/grub.cfg
 * (Bonus:) Ollama KI
 
 ### "Fertig" & Was fehlt:
+  
 * #### Hyprland (FERTIG)
   hat einen leuchtendgelben schatten, keinen rand, keine rundung und 15px abstand(innen). Dwindle und Master mit Keybinds die linke hand benutzen und gute maus support.
 
@@ -163,6 +164,9 @@ sudo grub-mkconfig -o /boot/grub/grub.cfg
   Es werden auch automatisch icons gezogen und diese werden groß mittig plaziert, darunter der text!
   Ein Element ist eine Trafkblase, eine Lila Seifenartige Blase, dunkellilablau. Alles in Blender modelliert. Wenn man eine sache anvisiert, dann leutet diese blase vom inneren aus gelblich (mana, Kraft).
   Die Suchleiste ist eine Gestreckte Version Davon
+
+* #### Waybar (Fast Fertig)
+  Die Bar ist customized und funktionabel. Tweaken hald noch
   
 * #### hyprpaper (FAST Fertig)
   braucht noch mehr bilder UND ein opt bg skript
@@ -189,7 +193,7 @@ usr/share/libalpm/hooks/trafktux-logo.hook
 etc/default/grub
 etc/hostname
 
-~/archiso   (optionale option, für mich damit ich selber wieder das kompilieren kann, wenn ich was ändern will wenn ich nicht mehr einen vm benutze)
+~/archiso   (für mich damit ich selber wieder das kompilieren kann, wenn ich was ändern will wenn ich nicht mehr einen vm benutze)
 
 
   In Calamares, ka wie das genau geht, aber ich denke mir das es ähnlich wie in archinstall bereits voreingestelltes gibt, language, services, repo server für pacman, etc. Also Archiso hald oder so ka...
