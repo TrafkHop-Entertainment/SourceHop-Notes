@@ -1,5 +1,0 @@
-TrafkHop Entertainment (alles umbenennen noch)
-SourceHop ... (umbenennen)
-TrafkSite (umbenennen)
-TrafkTux (nicht sicher)
-Raufbold3b's Scratch Archive (RSA)

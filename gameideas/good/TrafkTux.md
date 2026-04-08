@@ -56,6 +56,7 @@ sudo grub-mkconfig -o /boot/grub/grub.cfg
 ## Multimedia
 * qbittorrent
 * makemkv + makemkv-libaacs (yay)
+  sudo sg | sudo tee -a /etc/modules-load.d/sg.conf
 * asunder
 * handbrake
 ## Work
