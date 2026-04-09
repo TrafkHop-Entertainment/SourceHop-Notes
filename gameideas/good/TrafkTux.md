@@ -1,8 +1,4 @@
-Hey, will eine Linux Distro erstellen!
-Das sind meine Notizen dazu und was ich schon hab. Wie findest du es bis jetzt?
-(also du musst jetzt nicht alle kleinigkeiten wie den normalen linux kernel oder so extra sagen, weiß ich eh schon alles)(noch was: die pakete sind nicht umsonst in abteile unterteilt, das für mich nötigste ist in nötige, der rest ist extra)(die aur pakete und so werden als post install scripts installiert! Ist am einfachsten)(manche sachen wie keyd oder so sind nur für die anderen da, ich benutz es nicht, aber es ist ein feature was man haben sollte) (ja ich hab alle treiber gleich drinnen, könnte ich höchstens in calamares dann später einzeln machen) (das distro ohne extra pakete hat grad ca 12gb, also wenn man das ohne extra pakete installiert, dolphin sagt das immerhin. Das ist keine iso, dass ist wenn man über dolphin im os schaut!! ) (über das builden der iso, sprich archiso und calamares mach ich mir erst später sorgen)
-
-# What i did to start:
+# What i did to start (not needed anymore ig):
 ## archinstall
 * english
 * de de_AT UTF-8
@@ -24,15 +20,20 @@ Das sind meine Notizen dazu und was ich schon hab. Wie findest du es bis jetzt?
    Make folder .icons in your home folder Download the tar file and extract in it In terminal run command ~$ gtk-update-icon-cache ~/.icons/namefile (ex : Clay) OR
    In Root folder
    Download the tar file, copy and extract it in /usr/share/icons (can use GUI via file manager as Root or command line) In terminal run command ~$ sudo gtk-update-icon-cache /usr/share/icons/namefile (ex : Clay)
+ * 
+ * Colloid GTK Theme
+   git clone https://github.com/vinceliuice/Colloid-gtk-theme.git
+   cd Colloid-gtk-theme
+   ./install.sh -c light --tweaks dracula -l fixed
 
 # Nötige Pakete:
-sudo pacman -Syy --needed linux linux-firmware linux-headers bash-completion noto-fonts noto-fonts-emoji ntfs-3g gvfs gvfs-mtp gvfs-smb p7zip unrar zip unzip cups cups-pdf avahi bluez-cups bluez-utils xdg-user-dirs power-profiles-daemon qt5-wayland qt6-wayland system-config-printer grub hyprpolkitagent polkit sddm vulkan-radeon mesa vulkan-intel hyprland waybar hyprpaper hyprlock rofi dunst pipewire pipewire-pulse pipewire-alsa wireplumber pavucontrol xorg-xwayland dolphin kitty grim slurp wl-clipboard cliphist bluez bluez-utils blueman xdg-desktop-portal-hyprland xdg-desktop-portal-gtk hypridle networkmanager network-manager-applet firefox nano htop imv ufw nwg-look kvantum playerctl sof-firmware pipewire-jack gufw flatpak gparted kate kolourpaint ark fastfetch fuse2 mtools dosfstools nvidia-open-dkms nvidia-utils nvidia-settings egl-wayland lib32-vulkan-radeon lib32-mesa lib32-vulkan-intel lib32-nvidia-utils brightnessctl dolphin-plugins base-devel git keyd print-manager hplip xdg-user-dirs-gtk qt5-imageformats kimageformats sddm-kcm wget curl noto-fonts-cjk pipewire-audio noise-suppression-for-voice qt5-multimedia qt6-multimedia upower ttf-jetbrains-mono-nerd breeze breeze-gtk os-prober jq vlc vlc-plugins-all ffmpeg gwenview kio-admin qt5ct qt6ct kde-cli-tools plymouth xorg-xcursorgen
+sudo pacman -Syy --needed linux linux-firmware linux-headers bash-completion noto-fonts noto-fonts-emoji ntfs-3g p7zip unrar zip unzip cups cups-pdf avahi bluez-cups bluez-utils xdg-user-dirs power-profiles-daemon system-config-printer grub hyprpolkitagent polkit sddm vulkan-radeon mesa vulkan-intel hyprland waybar hyprpaper hyprlock rofi dunst pipewire pipewire-pulse pipewire-alsa wireplumber pavucontrol xorg-xwayland kitty grim slurp wl-clipboard cliphist bluez bluez-utils blueman xdg-desktop-portal-hyprland xdg-desktop-portal-gtk hypridle networkmanager network-manager-applet firefox nano htop imv ufw nwg-look kvantum playerctl sof-firmware pipewire-jack gufw flatpak gparted kate kolourpaint ark fastfetch fuse2 mtools dosfstools nvidia-open-dkms nvidia-utils nvidia-settings egl-wayland lib32-vulkan-radeon lib32-mesa lib32-vulkan-intel lib32-nvidia-utils brightnessctl base-devel git keyd print-manager hplip xdg-user-dirs-gtk qt5-imageformats wget curl noto-fonts-cjk pipewire-audio noise-suppression-for-voice qt5-multimedia qt6-multimedia upower ttf-jetbrains-mono-nerd os-prober jq vlc vlc-plugins-all ffmpeg qt5ct qt6ct plymouth xorg-xcursorgen cpio cmake kvantum-qt5 qt5-wayland qt6-wayland nautilus gnome-disk-utility gvfs gvfs-mtp gvfs-smb nautilus-share gwenview
 
 git clone [https://aur.archlinux.org/yay.git](https://aur.archlinux.org/yay.git "https://aur.archlinux.org/yay.git")
 cd yay
 makepkg -si
 
-yay -S calamares xwaylandvideobridge pamac-all
+yay -S calamares xwaylandvideobridge pamac-all nautilus-open-any-terminal
 
 flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
 
@@ -48,6 +49,11 @@ cp /usr/share/hyprland/hyprland.conf ~/.config/hypr/hyprland.conf
 sudo nano /etc/default/grub
 GRUB_DISABLE_OS_PROBER=false
 sudo grub-mkconfig -o /boot/grub/grub.cfg
+
+hyprm add https://github.com/hyprwm/hyprland-plugins
+hyprpm update
+hyprm enable hyprbars
+hyprpm enable hyprexpo
 
 # Optional packages (alle in extra skripts packen) (not on normal installation)
 ## Social
@@ -136,19 +142,22 @@ sudo grub-mkconfig -o /boot/grub/grub.cfg
 * Ya can't add them ofc, but the notes don't lie
 # Theming to be done:
 * Hyprland (Done)
-* waybar ("Done")
+* waybar (Done)
 * rofi (Done)
-* Grub (something)
-* Sddm
-* hyprpaper ("done")
-* Dolphin
+* hyprpaper (done)
 * Curser Theme (Done)
-* Calamares
 * fastfetch (Done)
-* breeze-Theme anpassen
-* Skripte fürs installieren machen und so
 * hyprlock (Done)
+* Grub (something)
 * plymouth
+* Sddm
+* Calamares
+* Skripte fürs installieren machen und so
+  yay und flatpak apps und so
+  optionale apps
+  optionales hintergrund bild pack
+  optionales RSA Game Pack (Fertig)
+  etc?
 * (Bonus:) Ollama KI
 
 ### "Fertig" & Was fehlt:
@@ -166,10 +175,10 @@ sudo grub-mkconfig -o /boot/grub/grub.cfg
   Ein Element ist eine Trafkblase, eine Lila Seifenartige Blase, dunkellilablau. Alles in Blender modelliert. Wenn man eine sache anvisiert, dann leutet diese blase vom inneren aus gelblich (mana, Kraft).
   Die Suchleiste ist eine Gestreckte Version Davon
 
-* #### Waybar (Fast Fertig)
-  Die Bar ist customized und funktionabel. Tweaken hald noch
+* #### Waybar (FERTIG)
+  hat links app menu, power menu, show first 9 workspaces(hyprexo), hideall, danach abstand und dann terminal, nautilus und firefox   mitte aktive workspaces und geöffnete apps    rechts audio, bluetooth, internet und uhrzeit
   
-* #### hyprpaper (FAST Fertig)
+* #### hyprpaper (Fertig*)
   braucht noch mehr bilder UND ein opt bg skript
 * #### hyprlock (Fertig)
   Ein BG wo LOCK steht welches rot leuchtet. in der mitte das search menü aus rofi (vom look her), da pswd eingeben
@@ -177,16 +186,17 @@ sudo grub-mkconfig -o /boot/grub/grub.cfg
   Es ist ein 45px low res blender render von einer "cartoon" hand mit outline. Hat 2 open hands, pointer, text, grab, resize, Xdenied und ne 9 frame wait animation.
 * #### Fastfetch (Fertig)
   Eine Trafkblase in der Farbe eben(lilablau) und das fette ist die Kraft Farbe(gelb)
+  
+  
 * #### Grub (Ein bisschen was ist schon da)
   In Grub steht schon TrafkTux drinnen, genauso wie in fastfetch und anders
 # Was bis jetzt zum übernehmen wäre (für archiso)
   
   ~/.config
-  
+  ~/.themes
+  ~/.icons
   /usr/share/icons
-
 ~/.local/share/icons  
-
 etc/os-release
 etc/issue
 etc/os-release.trafk
@@ -198,18 +208,21 @@ etc/hostname
 
 
   In Calamares, ka wie das genau geht, aber ich denke mir das es ähnlich wie in archinstall bereits voreingestelltes gibt, language, services, repo server für pacman, etc. Also Archiso hald oder so ka...
+
+
 # Readme
 TrafkTux is an arch-based Distro that focuses on mouse control and non minimalism. It has nice looking menus with 3d assets to make it more appealing (for the creator), it has many optional packages for almost anything, it feels good to use and etc.
 
 
 ## Setup
 You can install the base system with the installer.
-The optional packages will be post install scripts that start automaticly after the first boot (it can take a while if you want everything). Alternativly the scripts are also in the ~/.config/trafktux folder!
+The optional packages will be post install scripts that start automaticly after the first boot (it can take a while(a day ig) if you want everything). Alternativly the scripts are also in the ~/.config/TrafkTux folder!
 ## Keybinds:
 Super +:
 Tab: custom rofi menu
 shift+Tab: open windows
-ctrl/alt+tab: normal rofi menus
+ctrl+tab: all 9 workspaces
+alt+tab: normal rofi menu
 circumflex (^): windowedfullscreen
 shift+circumflex (^): exclusivefullscreen
 ctrl+circumflex (^): hide windows
