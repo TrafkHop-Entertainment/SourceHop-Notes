@@ -6,12 +6,8 @@
 }
 
 
-
-
-
-
 #spacer {
-    bottom: -300%;
+    bottom: -65%;
 }
 
 @media (max-width: 1000px) {
