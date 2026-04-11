@@ -55,6 +55,11 @@ hyprpm update
 hyprm enable hyprbars
 hyprpm enable hyprexpo
 
+git clone https://github.com/BlueManCZ/hyprmod.git
+cd hyprmod
+pipx install .
+hyprmod
+
 # Optional packages (alle in extra skripts packen) (not on normal installation)
 ## Social
 * discord
@@ -208,37 +213,3 @@ etc/hostname
 
 
   In Calamares, ka wie das genau geht, aber ich denke mir das es ähnlich wie in archinstall bereits voreingestelltes gibt, language, services, repo server für pacman, etc. Also Archiso hald oder so ka...
-
-
-# Readme
-TrafkTux is an arch-based Distro that focuses on mouse control and non minimalism. It has nice looking menus with 3d assets to make it more appealing (for the creator), it has many optional packages for almost anything, it feels good to use and etc.
-
-
-## Setup
-You can install the base system with the installer.
-The optional packages will be post install scripts that start automaticly after the first boot (it can take a while(a day ig) if you want everything). Alternativly the scripts are also in the ~/.config/TrafkTux folder!
-## Keybinds:
-Super +:
-Tab: custom rofi menu
-shift+Tab: open windows
-ctrl+tab: all 9 workspaces
-alt+tab: normal rofi menu
-circumflex (^): windowedfullscreen
-shift+circumflex (^): exclusivefullscreen
-ctrl+circumflex (^): hide windows
-escape: custom power menu / close app
-space: terminal (kitty)
-wasd: focus other windows
-shift+wasd: change window size
-left mouse button: move windows
-right mouse button: resize windows?
-left mouse without super: resize windows on the border
-
-print: screenshot
-shift/ctrl/alt also do something like that
-
-laptop keys work aswell
-
-## Screenshots
-there are none...
-
