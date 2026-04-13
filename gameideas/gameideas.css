@@ -6,6 +6,69 @@
 }
 
 
+#grasspullingsimulator {
+    left: 3%;
+    right: 35%;
+    top: 35%;
+    bottom: 25%;
+}
+
+#pyleyandfilan0 {
+    left: 65%;
+    right: 3%;
+    top: 35%;
+    bottom: 25%;
+}
+
+#pyleyandfilan1 {
+    left: 3%;
+    right: 3%;
+    top: 75%;
+    bottom: -45%;
+}
+
+#pyleyandfilan2 {
+    left: 3%;
+    right: 50%;
+    top: 145%;
+    bottom: -85%;
+}
+
+#pyleyandfilan3 {
+    left: 50%;
+    right: 3%;
+    top: 145%;
+    bottom: -85%;
+}
+
+#dramoteu1 {
+    left: 3%;
+    right: 3%;
+    top: 185%;
+    bottom: -135%;
+}
+
+#gruhorthenewera {
+    left: 3%;
+    right: 3%;
+    top: 235%;
+    bottom: -175%;
+}
+#innerbubbleexplorer {
+    left: 3%;
+    right: 55%;
+    top: 275%;
+    bottom: -215%;
+}
+
+#trafktux {
+    left: 45%;
+    right: 3%;
+    top: 275%;
+    bottom: -215%;
+}
+
+
 
 
 
@@ -14,12 +77,60 @@
 #questionable {
     left: 3%;
     right: 3%;
-    top: 265%;
-    bottom: -195%;
+    top: 325%;
+    bottom: -250%;
+}
+
+#PyleyRacing {
+    left: 3%;
+    right: 50%;
+    top: 350%;
+    bottom: -285%;
+}
+#PyleySports {
+    left: 50%;
+    right: 3%;
+    top: 350%;
+    bottom: -285%;
+}
+
+
+#PyleysGamenight {
+    left: 3%;
+    right: 50%;
+    top: 385%;
+    bottom: -325%;
+}
+#pyleysBlocksQuest {
+    left: 50%;
+    right: 3%;
+    top: 385%;
+    bottom: -325%;
+}
+
+#tracorsRanchandStuff {
+    left: 3%;
+    right: 50%;
+    top: 425%;
+    bottom: -365%;
+}
+
+#animalcrossingxsimsgame {
+    left: 50%;
+    right: 3%;
+    top: 425%;
+    bottom: -365%;
+}
+
+#railshootergame {
+    left: 3%;
+    right: 3%;
+    top: 465%;
+    bottom: -385%;
 }
 
 #spacer {
-    bottom: -300%;
+    bottom: -395%;
 }
 
 @media (max-width: 1000px) {

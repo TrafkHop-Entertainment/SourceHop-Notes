@@ -2,12 +2,99 @@
     left: 3%;
     right: 3%;
     top: 12%;
-    bottom: 65%;
+    bottom: 68%;
+}
+
+#characters {
+    left: 3%;
+    right: 3%;
+    top: 45%;
+    bottom: 22%;
 }
 
 
+#information {
+    left: 3%;
+    right: 3%;
+    top: 95%;
+    bottom: -15%;
+}
+
+#Alfönisß {
+    left: 3%;
+    right: 50%;
+    top: 115%;
+    bottom: -55%;
+}
+
+#AlfönisßesWöaddabuach {
+    left: 50%;
+    right: 3%;
+    top: 115%;
+    bottom: -55%;
+}
+
+#TheBasisoftheTriverse {
+    left: 3%;
+    right: 50%;
+    top: 155%;
+    bottom: -95%;
+}
+
+#MagicBook {
+    left: 3%;
+    right: 50%;
+    top: 195%;
+    bottom: -135%;
+}
+
+#UseCasesforMagic {
+    left: 50%;
+    right: 3%;
+    top: 195%;
+    bottom: -135%;
+}
+
+#Verses {
+    left: 50%;
+    right: 3%;
+    top: 155%;
+    bottom: -95%;
+}
+
+
+#Worlds {
+    left: 3%;
+    right: 3%;
+    top: 255%;
+    bottom: -180%;
+}
+
+#History {
+    left: 3%;
+    right: 3%;
+    top: 280%;
+    bottom: -210%;
+}
+
+#Geography {
+    left: 3%;
+    right: 50%;
+    top: 310%;
+    bottom: -255%;
+}
+
+#Culture {
+    left: 50%;
+    right: 3%;
+    top: 310%;
+    bottom: -255%;
+}
+
+
+
 #spacer {
-    bottom: -65%;
+    bottom: -265%;
 }
 
 @media (max-width: 1000px) {
