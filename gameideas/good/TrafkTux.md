@@ -76,7 +76,6 @@ das und python-pip/x noch installieren und integrieren
 * python
 * cmake
 * jetbrains-toolbox
-* renpy
 * bambustudio-bin
 * kdenlive
 * audacity
@@ -98,7 +97,7 @@ das und python-pip/x noch installieren und integrieren
 * trayscale
 * MEGA
   wget https://mega.nz/linux/repo/Arch_Extra/x86_64/megasync-x86_64.pkg.tar.zst && sudo pacman -U "$PWD/megasync-x86_64.pkg.tar.zst"
-* archiso (dev option, inc archiso folder in home)
+* archiso
 ## Games
 * steam
 * itch-bin
