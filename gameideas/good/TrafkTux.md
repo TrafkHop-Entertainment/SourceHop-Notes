@@ -61,6 +61,10 @@ pipx install .
 hyprmod
 
 das und python-pip/x noch installieren und integrieren
+UND allacrity x fish shell installieren anstatt dem anderen
+
+
+
 
 # Optional packages (alle in extra skripts packen) (not on normal installation)
 ## Social
