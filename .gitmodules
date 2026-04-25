@@ -1,0 +1,18 @@
+[submodule "assets/SourceHop-Audios"]
+	path = assets/SourceHop-Audios
+	url = git@github.com:TrafkHop-Entertainment/SourceHop-Audios.git
+[submodule "assets/SourceHop-Documents"]
+	path = assets/SourceHop-Documents
+	url = git@github.com:TrafkHop-Entertainment/SourceHop-Documents.git
+[submodule "assets/SourceHop-GodotScenes"]
+	path = assets/SourceHop-GodotScenes
+	url = git@github.com:TrafkHop-Entertainment/SourceHop-GodotScenes.git
+[submodule "assets/SourceHop-Shaders"]
+	path = assets/SourceHop-Shaders
+	url = git@github.com:TrafkHop-Entertainment/SourceHop-Shaders.git
+[submodule "assets/SourceHop-Models"]
+	path = assets/SourceHop-Models
+	url = git@github.com:TrafkHop-Entertainment/SourceHop-Models.git
+[submodule "assets/SourceHop-Images"]
+	path = assets/SourceHop-Images
+	url = git@github.com:TrafkHop-Entertainment/SourceHop-Images.git
