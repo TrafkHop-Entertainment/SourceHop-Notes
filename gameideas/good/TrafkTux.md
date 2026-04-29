@@ -27,7 +27,7 @@
    ./install.sh -c light --tweaks dracula -l fixed
 
 # Nötige Pakete:
-sudo pacman -Syy --needed linux linux-firmware linux-headers bash-completion noto-fonts noto-fonts-emoji ntfs-3g p7zip unrar zip unzip cups cups-pdf avahi bluez-cups bluez-utils xdg-user-dirs power-profiles-daemon system-config-printer grub hyprpolkitagent polkit sddm vulkan-radeon mesa vulkan-intel hyprland waybar hyprpaper hyprlock rofi dunst pipewire pipewire-pulse pipewire-alsa wireplumber pavucontrol xorg-xwayland alacritty grim slurp wl-clipboard cliphist bluez bluez-utils blueman xdg-desktop-portal-hyprland xdg-desktop-portal-gtk hypridle networkmanager network-manager-applet nano htop imv ufw nwg-look kvantum playerctl sof-firmware pipewire-jack gufw flatpak gparted kate kolourpaint ark fastfetch fuse2 mtools dosfstools nvidia-open-dkms nvidia-utils nvidia-settings egl-wayland lib32-vulkan-radeon lib32-mesa lib32-vulkan-intel lib32-nvidia-utils brightnessctl base-devel git keyd print-manager hplip xdg-user-dirs-gtk qt5-imageformats wget curl noto-fonts-cjk pipewire-audio noise-suppression-for-voice qt5-multimedia qt6-multimedia upower ttf-jetbrains-mono-nerd os-prober jq vlc vlc-plugins-all ffmpeg qt5ct qt6ct plymouth xorg-xcursorgen cpio cmake kvantum-qt5 qt5-wayland qt6-wayland nautilus gnome-disk-utility gvfs gvfs-mtp gvfs-smb nautilus-share gwenview python python-pip python-pipx
+sudo pacman -Syy --needed linux linux-firmware linux-headers bash-completion noto-fonts noto-fonts-emoji ntfs-3g p7zip unrar zip unzip cups cups-pdf avahi bluez-cups bluez-utils xdg-user-dirs power-profiles-daemon system-config-printer grub hyprpolkitagent polkit sddm vulkan-radeon mesa vulkan-intel hyprland waybar hyprpaper hyprlock rofi dunst pipewire pipewire-pulse pipewire-alsa wireplumber pavucontrol xorg-xwayland alacritty grim slurp wl-clipboard cliphist bluez bluez-utils blueman xdg-desktop-portal-hyprland xdg-desktop-portal-gtk hypridle networkmanager network-manager-applet nano btop imv ufw nwg-look kvantum playerctl sof-firmware pipewire-jack gufw flatpak gparted kate kolourpaint ark fastfetch fuse2 mtools dosfstools nvidia-open-dkms nvidia-utils nvidia-settings egl-wayland lib32-vulkan-radeon lib32-mesa lib32-vulkan-intel lib32-nvidia-utils brightnessctl base-devel git keyd print-manager hplip xdg-user-dirs-gtk qt5-imageformats wget curl noto-fonts-cjk pipewire-audio noise-suppression-for-voice qt5-multimedia qt6-multimedia upower ttf-jetbrains-mono-nerd os-prober jq vlc vlc-plugins-all ffmpeg qt5ct qt6ct plymouth xorg-xcursorgen cpio cmake kvantum-qt5 qt5-wayland qt6-wayland nautilus gnome-disk-utility gvfs gvfs-mtp gvfs-smb nautilus-share gwenview python python-pip python-pipx npm
 
 git clone [https://aur.archlinux.org/yay.git](https://aur.archlinux.org/yay.git "https://aur.archlinux.org/yay.git")
 cd yay
@@ -60,8 +60,7 @@ cd hyprmod
 pipx install .
 hyprmod
 
-das und python-pip/x noch installieren und integrieren
-alacritty
+das und python-pip/x noch installieren und integrieren btop npm
 
 
 
@@ -97,6 +96,7 @@ alacritty
   makepkg -si
 * webkitgtk2
 * cnijfilter2 (yay)
+* gnome-network-displays (yay)
 ## other
 * timeshift
 * tailscale
