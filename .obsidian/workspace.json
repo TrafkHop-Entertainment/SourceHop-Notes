@@ -1,5 +1,6 @@
 {
   "main": {
+<<<<<<< HEAD
     "id": "dba6cf22460e75cb",
     "type": "split",
     "children": [
@@ -9,6 +10,17 @@
         "children": [
           {
             "id": "32bd05abb4d29f77",
+=======
+    "id": "404bf9c0e838c838",
+    "type": "split",
+    "children": [
+      {
+        "id": "9bf9ca3e45e77a8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81bd0166761685b7",
+>>>>>>> 88a81408d1fc99a3adf215dc896d096fb9e7d8ba
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -27,6 +39,7 @@
     "direction": "vertical"
   },
   "left": {
+<<<<<<< HEAD
     "id": "32e11e60320ad25b",
     "type": "split",
     "children": [
@@ -36,6 +49,17 @@
         "children": [
           {
             "id": "f8424b43fcd737c2",
+=======
+    "id": "fe612934847a7ba2",
+    "type": "split",
+    "children": [
+      {
+        "id": "32dc4f5bb084d761",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3bc92a0ee9b2fee3",
+>>>>>>> 88a81408d1fc99a3adf215dc896d096fb9e7d8ba
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +72,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "8d7fe0c6de04125f",
+=======
+            "id": "b2aa4542e1983f68",
+>>>>>>> 88a81408d1fc99a3adf215dc896d096fb9e7d8ba
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +93,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "59745473974aa6db",
+=======
+            "id": "b693e52d79bf8468",
+>>>>>>> 88a81408d1fc99a3adf215dc896d096fb9e7d8ba
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,6 +113,7 @@
     "width": 300
   },
   "right": {
+<<<<<<< HEAD
     "id": "49e1a0dcbb723666",
     "type": "split",
     "children": [
@@ -90,6 +123,17 @@
         "children": [
           {
             "id": "15a690b3fe6123b0",
+=======
+    "id": "d5c8a82861fca6ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "27576ae93c744654",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f4cf1aedc8abb91",
+>>>>>>> 88a81408d1fc99a3adf215dc896d096fb9e7d8ba
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -108,7 +152,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "202f50ff87738360",
+=======
+            "id": "e7e12be016029d00",
+>>>>>>> 88a81408d1fc99a3adf215dc896d096fb9e7d8ba
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -122,7 +170,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "f4c033d811b340be",
+=======
+            "id": "5c41c4715b750a8c",
+>>>>>>> 88a81408d1fc99a3adf215dc896d096fb9e7d8ba
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +189,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "f3e41ce1efeb9ae9",
+=======
+            "id": "2ce3084354e3cfd5",
+>>>>>>> 88a81408d1fc99a3adf215dc896d096fb9e7d8ba
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,7 +207,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "d0133b657c35a31d",
+=======
+            "id": "bf68d0e961da1f47",
+>>>>>>> 88a81408d1fc99a3adf215dc896d096fb9e7d8ba
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -183,6 +243,15 @@
       "bases:Neue Base erstellen": false
     }
   },
+<<<<<<< HEAD
   "active": "32bd05abb4d29f77",
   "lastOpenFiles": []
+=======
+  "active": "81bd0166761685b7",
+  "lastOpenFiles": [
+    "assets/SourceHop-Models/Ludo Figur.blend@",
+    "assets/SourceHop-Models/Ludo Figur.blend1",
+    "assets/SourceHop-Models/Ludo Figur.blend"
+  ]
+>>>>>>> 88a81408d1fc99a3adf215dc896d096fb9e7d8ba
 }
