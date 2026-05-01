@@ -1,36 +1,24 @@
 {
   "main": {
-<<<<<<< HEAD
-    "id": "dba6cf22460e75cb",
+    "id": "a5de770e84344521",
     "type": "split",
     "children": [
       {
-        "id": "91c4ce3457c30c74",
+        "id": "6f4d45e74aef3bd4",
         "type": "tabs",
         "children": [
           {
-            "id": "32bd05abb4d29f77",
-=======
-    "id": "404bf9c0e838c838",
-    "type": "split",
-    "children": [
-      {
-        "id": "9bf9ca3e45e77a8f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "81bd0166761685b7",
->>>>>>> 88a81408d1fc99a3adf215dc896d096fb9e7d8ba
+            "id": "81ebaa9e33d7c89a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gameideas/good/TrafkTux.md",
+                "file": "trafkverse/Characters/Kosmos/Kosmos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TrafkTux"
+              "title": "Kosmos"
             }
           }
         ]
@@ -39,27 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-<<<<<<< HEAD
-    "id": "32e11e60320ad25b",
+    "id": "51b0581a7862c342",
     "type": "split",
     "children": [
       {
-        "id": "de5db735c258514a",
+        "id": "69ff46d933408154",
         "type": "tabs",
         "children": [
           {
-            "id": "f8424b43fcd737c2",
-=======
-    "id": "fe612934847a7ba2",
-    "type": "split",
-    "children": [
-      {
-        "id": "32dc4f5bb084d761",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3bc92a0ee9b2fee3",
->>>>>>> 88a81408d1fc99a3adf215dc896d096fb9e7d8ba
+            "id": "13f24a793d4deb0b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -72,11 +48,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "8d7fe0c6de04125f",
-=======
-            "id": "b2aa4542e1983f68",
->>>>>>> 88a81408d1fc99a3adf215dc896d096fb9e7d8ba
+            "id": "3504e0b64cdf16fb",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -93,11 +65,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "59745473974aa6db",
-=======
-            "id": "b693e52d79bf8468",
->>>>>>> 88a81408d1fc99a3adf215dc896d096fb9e7d8ba
+            "id": "ed638f8625a43ae4",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -113,32 +81,20 @@
     "width": 300
   },
   "right": {
-<<<<<<< HEAD
-    "id": "49e1a0dcbb723666",
+    "id": "e138cd4e0c1647f2",
     "type": "split",
     "children": [
       {
-        "id": "fe4c3dbc9e402300",
+        "id": "b55eb8770af72db6",
         "type": "tabs",
         "children": [
           {
-            "id": "15a690b3fe6123b0",
-=======
-    "id": "d5c8a82861fca6ed",
-    "type": "split",
-    "children": [
-      {
-        "id": "27576ae93c744654",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4f4cf1aedc8abb91",
->>>>>>> 88a81408d1fc99a3adf215dc896d096fb9e7d8ba
+            "id": "0e57305292cf4834",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gameideas/good/TrafkTux.md",
+                "file": "trafkverse/Characters/Kosmos/Kosmos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,33 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise auf TrafkTux"
+              "title": "Rückverweise auf Kosmos"
             }
           },
           {
-<<<<<<< HEAD
-            "id": "202f50ff87738360",
-=======
-            "id": "e7e12be016029d00",
->>>>>>> 88a81408d1fc99a3adf215dc896d096fb9e7d8ba
+            "id": "cfb8a183a0abc0b3",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "gameideas/good/TrafkTux.md",
+                "file": "trafkverse/Characters/Kosmos/Kosmos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Ausgehende Links von TrafkTux öffnen"
+              "title": "Ausgehende Links von Kosmos öffnen"
             }
           },
           {
-<<<<<<< HEAD
-            "id": "f4c033d811b340be",
-=======
-            "id": "5c41c4715b750a8c",
->>>>>>> 88a81408d1fc99a3adf215dc896d096fb9e7d8ba
+            "id": "ef60f5cc5a87804d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -189,11 +137,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "f3e41ce1efeb9ae9",
-=======
-            "id": "2ce3084354e3cfd5",
->>>>>>> 88a81408d1fc99a3adf215dc896d096fb9e7d8ba
+            "id": "5bed49514aac32ac",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -207,22 +151,18 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "d0133b657c35a31d",
-=======
-            "id": "bf68d0e961da1f47",
->>>>>>> 88a81408d1fc99a3adf215dc896d096fb9e7d8ba
+            "id": "e8852b33f60b4605",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "gameideas/good/TrafkTux.md",
+                "file": "trafkverse/Characters/Kosmos/Kosmos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von TrafkTux"
+              "title": "Gliederung von Kosmos"
             }
           }
         ]
@@ -243,15 +183,14 @@
       "bases:Neue Base erstellen": false
     }
   },
-<<<<<<< HEAD
-  "active": "32bd05abb4d29f77",
-  "lastOpenFiles": []
-=======
-  "active": "81bd0166761685b7",
+  "active": "13f24a793d4deb0b",
   "lastOpenFiles": [
-    "assets/SourceHop-Models/Ludo Figur.blend@",
-    "assets/SourceHop-Models/Ludo Figur.blend1",
-    "assets/SourceHop-Models/Ludo Figur.blend"
+    "trafkverse/Characters.html~",
+    "trafkverse/Worlds/History.md",
+    "trafkverse/Characters/Kosmos/Kosmos.md",
+    "assets/SourceHop-Audios/older/Die Beginne von Ritter Goffy und seinem Schlauen Kollegen Blufi _ Grassland Theme (Alt).mp4",
+    "assets/SourceHop-Audios/older/Const der kleine Kerl, spuckt gerne Uhu! The Song.mp4",
+    "trafkverse/section.css~",
+    "trafkverse/Araki Character history.ods"
   ]
->>>>>>> 88a81408d1fc99a3adf215dc896d096fb9e7d8ba
 }
