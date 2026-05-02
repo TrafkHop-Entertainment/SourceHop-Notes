@@ -1,3 +1,0 @@
-# Der Gott
-# Fischwesen
-# Sandfischwesen
