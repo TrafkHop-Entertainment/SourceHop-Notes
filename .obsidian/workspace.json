@@ -11,14 +11,10 @@
             "id": "81ebaa9e33d7c89a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "trafkverse/Characters/Kosmos/Kosmos.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Kosmos"
+              "title": "Neuer Tab"
             }
           }
         ]
