@@ -12,4 +12,7 @@ flex-direction: column;
 justify-content: center;
 align-items: center;
 text-align: start;
-max-width: 45%;}
+max-width: 45%;
+min-width: 45%;
+background-color: green;
+}
