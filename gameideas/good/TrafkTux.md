@@ -59,16 +59,6 @@ hyprpm update
 hyprm enable hyprbars
 hyprpm enable hyprexpo
 
-git clone https://github.com/BlueManCZ/hyprmod.git
-cd hyprmod
-pipx install .
-hyprmod
-
-<<<<<<< HEAD
-das hyprmod und python-pip/x noch installieren und integrieren und exfatprogs
-=======
-das und python-pip/x noch installieren und integrieren btop npm
->>>>>>> 88a81408d1fc99a3adf215dc896d096fb9e7d8ba
 
 
 
@@ -170,6 +160,7 @@ das und python-pip/x noch installieren und integrieren btop npm
 * Curser Theme (Done)
 * fastfetch (Done)
 * hyprlock (Done)
+
 * Grub (something)
 * plymouth
 * Sddm
@@ -199,6 +190,7 @@ das und python-pip/x noch installieren und integrieren btop npm
 
 * #### Waybar (FERTIG)
   hat links app menu, power menu, show first 9 workspaces(hyprexo), hideall, danach abstand und dann terminal, nautilus und firefox   mitte aktive workspaces und geöffnete apps    rechts audio, bluetooth, internet und uhrzeit
+  hat auch ein autohide, welches alle 0.01s abruft, wo die maus ist. Für extra performace, dreht man das einfach runter
   
 * #### hyprpaper (Fertig*)
   braucht noch mehr bilder UND ein opt bg skript
